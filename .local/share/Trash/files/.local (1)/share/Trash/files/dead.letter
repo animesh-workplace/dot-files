@@ -1,0 +1,15 @@
+From nsm Sat Sep  5 16:45:25 2020
+Date: Sat, 05 Sep 2020 16:45:25 +0530
+To: nsm
+User-Agent: mail v14.9.19
+
+Subject: editor saved ``/home/nsm/.zshrc''
+You were editing the file "/home/nsm/.zshrc"
+at <Sat Sep  5 16:45> on the machine ``BrainiacII''
+when the editor was killed.
+
+You can retrieve most of your changes to this file
+using the "recover" command of the editor.
+An easy way to do this is to give the command "vi -r /home/nsm/.zshrc".
+This method also works using "ex" and "edit".
+

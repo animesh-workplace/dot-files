@@ -1,0 +1,14 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Daemon]
+LockGrace=30
+
+[Greeter]
+Theme=org.kde.breezedark.desktop
+
+[Greeter][LnF][General]
+showMediaControls=false
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/home/nsm/Pictures/Wallpapers/New folder (2)/fedora_29_background-wallpaper-3554x1999.jpg

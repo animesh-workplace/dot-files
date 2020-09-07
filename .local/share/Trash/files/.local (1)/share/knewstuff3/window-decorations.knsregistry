@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>FormaN</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>raimis</author>
+  <homepage>https://store.kde.org/p/1002712</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>86</rating>
+  <downloads>73432</downloads>
+  <installedfile>/home/nsm/.local/share/aurorae/themes/FormaN/*</installedfile>
+  <installedfile>/home/nsm/.local/share/aurorae/themes//</installedfile>
+  <id>1002712</id>
+  <releasedate>2011-05-27</releasedate>
+  <summary>Aurorae theme</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img//hive/content-pre1/141963-1.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img//hive/content-pre1/141963-1.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE0NjA3NDA5MTUiLCJvIjoiMSIsInMiOiJiNTZiMzZmNWQzMWIyYmY2YjdhM2MxZDc3NDMzNTRiMzMzY2QyZWViMTQxMWJjNTc0YjViZDZhYjFiZGYzODI5NzQ2MWYzMTcwZDQ4MTRiOTBhNjFlN2QxZDJmOWI4YmYyM2QyMmFiZTcyZjBlNTQ2MzQ1ZDgwZmFmMjc5NTQzMCIsInQiOjE1OTkzNzM2MTQsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.6kplj8WR7EX-juAyoyPT-TP_ryERVGGznnpGRs8eiS8/141963-FormaN.tar.gz</payload>
+  <tags>linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

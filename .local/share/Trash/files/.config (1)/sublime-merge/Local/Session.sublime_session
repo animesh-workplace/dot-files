@@ -1,0 +1,70 @@
+{
+	"last_version": 2032,
+	"previous_commit_messages":
+	[
+		"added themes",
+		"added vscode config",
+		"added config for yarn",
+		"added yarnrc",
+		"added zhistory",
+		"added zsh history",
+		"added zshrc",
+		"added zshrc for oh-my-zsh",
+		"added zshrc.zwc",
+		"added papercut data"
+	],
+	"project_dir": "/home/nsm",
+	"recent":
+	[
+		{
+			"locations_tab_selected": false,
+			"path": "/home/nsm/dot-files",
+			"search":
+			{
+				"history":
+				[
+				]
+			},
+			"show_untracked_files": true,
+			"side_bar_visible": true,
+			"table_of_contents_tab_selected": false,
+			"table_of_contents_tree_mode": false
+		},
+		{
+			"locations_tab_selected": false,
+			"path": "/home/nsm/.oh-my-zsh",
+			"search":
+			{
+				"history":
+				[
+				]
+			},
+			"show_untracked_files": false,
+			"side_bar_visible": true,
+			"table_of_contents_tab_selected": false,
+			"table_of_contents_tree_mode": false
+		}
+	],
+	"select_repository":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"windows":
+	[
+		{
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"tabs":
+			[
+				{
+					"path": "/home/nsm/dot-files",
+					"selected": true
+				}
+			]
+		}
+	]
+}

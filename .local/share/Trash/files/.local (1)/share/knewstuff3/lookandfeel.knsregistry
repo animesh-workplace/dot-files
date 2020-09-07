@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="121">
+  <name>WhiteSur</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1398840</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>82</rating>
+  <downloads>12147</downloads>
+  <installedfile>/home/nsm/.local/share/plasma/look-and-feel/com.github.vinceliuice.WhiteSur</installedfile>
+  <id>1398840</id>
+  <releasedate>2020-08-12</releasedate>
+  <summary>MacOS big sur theme for kde plasma&lt;br />
+-----------------------&lt;br />
+&lt;strong>Kvantum theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1398841/" target="_blank" rel="nofollow">https://www.pling.com/p/1398841/&lt;/a>&lt;br />
+-----------------------&lt;br />
+&lt;strong>Icon theme:&lt;/strong> &lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/6/3/2/129887a42b22bb843754c81631903b901c02.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/6/3/2/129887a42b22bb843754c81631903b901c02.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTcyMzU0NjQiLCJvIjoiMSIsInMiOiIxMTEwZDVmYjNiNjhjYzI0ZWQwYWNjMTZkNDI4YmExMWRmMmUxYjMxZDdiZDcyZTU1ZTI2NzcxYTVhN2Y2ZjZjYTc1YTk2MDllMmQ0MjNlNzRhYzhjMDEzNjc4OTg0NWQ3YTE5NGI4MGUzZjI0M2E4NzhkZWIxOTlmMzQxYTZhYyIsInQiOjE1OTkyMzE3MjksInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.xI1dmJ6HSfwgROYnqI6x4qrr1goy98dxxSS09WbcsRQ/01-com.github.vinceliuice.WhiteSur.tar.xz</payload>
+  <tags>original-product,linux,unix,theme,kde,plasma,look-and-feel,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="121">
+  <name>Cheerful-Phantasy-Global</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1390307</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>71</rating>
+  <downloads>1239</downloads>
+  <installedfile>/home/nsm/.local/share/plasma/look-and-feel/Cheerful-Phantasy-Global</installedfile>
+  <id>1390307</id>
+  <releasedate>2020-08-20</releasedate>
+  <summary>&lt;strong>Global Theme (Look-and-Feel)&lt;br />
+&lt;br />
+Dark Plasma Theme, Transparent and Blur.&lt;br />
+___________________&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #4e51ac;"> &lt;strong>Breeze-Cheerful-Phantasy-Dark&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1390301/"...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/e/1/c/5/579ac8ca350940dd6e63361c1b23df568d53.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/e/1/c/5/579ac8ca350940dd6e63361c1b23df568d53.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTc5MTYwNzgiLCJvIjoiMSIsInMiOiIzYzYwYjU5YjJiMjMzNGUzMmQyZjZhZDQ2OWQ4MTRhZDc3OGVlYWVjZTVkMzY4NTg3ZmRjOTkzMjlhOGJlY2YzYWZjZTBmZTMwYWM0YzA1Njc3YmJmYjk5M2E5ZWZjZjZmZWQ0YzUzY2M3MzA0ZmZjYWY1YmQ2ZWQ4NzM5OTFhZSIsInQiOjE1OTkyMzQ2OTUsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.H9TSt9jWtcA5bOJ36PjtWsTI94AE58hf6z8wD64plb8/Cheerful-Phantasy-Global.zip</payload>
+  <tags>linux,unix,theme,kde,plasma,look-and-feel,original-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="121">
+  <name>WhiteSur Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1400424</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>83</rating>
+  <downloads>22067</downloads>
+  <installedfile>/home/nsm/.local/share/plasma/look-and-feel/com.github.vinceliuice.WhiteSur-dark</installedfile>
+  <id>1400424</id>
+  <releasedate>2020-08-12</releasedate>
+  <summary>MacOS big sur theme for kde plasma&lt;br />
+-----------------------&lt;br />
+&lt;strong>Kvantum theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1398841/" target="_blank" rel="nofollow">https://www.pling.com/p/1398841/&lt;/a>&lt;br />
+-----------------------&lt;br />
+&lt;strong>Icon theme:&lt;/strong> &lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/e/9/8/a/3e7b3166dbee0a004ed4a44a7e17218fbb19.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/e/9/8/a/3e7b3166dbee0a004ed4a44a7e17218fbb19.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTcyMzQ5NDgiLCJvIjoiMSIsInMiOiIxZTY2Y2E5ZDQyNGJjOGE3NDdmZWMwNjNiZmExYTk3YjljNzMyMmM3M2VmMzdjYWMxYTNlNGQ1YTk3ZDQ2ZDk0ZThjNzIxYmZhMmQ1NWYzOGVhMjc2YWM4NTQ4ZTY2ZWNkYmIzNzUzZDc1MmY4YmY5NzUwNGQyNGViZjJkODhjNyIsInQiOjE1OTkyMzE2NzIsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.DbA5CBxxlTCovB6NW6kblXPtwhXav8Knx6a1LnrK9i8/com.github.vinceliuice.WhiteSur-dark.tar.xz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma,look-and-feel,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="121">
+  <name>WinSur-dark Global Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1373646</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>75</rating>
+  <downloads>570</downloads>
+  <installedfile>/home/nsm/.local/share/plasma/look-and-feel/com.github.yeyushengfan258.WinSur-dark</installedfile>
+  <id>1373646</id>
+  <releasedate>2020-08-29</releasedate>
+  <summary>Mc-WinSur-dark kde is a light clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/5/c/9/eaec37f9cce2bd6284683c04438b931b52b26755934c893432bb1113a14d83174806.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/5/c/9/eaec37f9cce2bd6284683c04438b931b52b26755934c893432bb1113a14d83174806.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTg2OTUwMTgiLCJvIjoiMSIsInMiOiI2MDk2YWNjMzcxZWFmNjJkZTM0M2Q1MWVlYjhmZjMwNmQ5MzMxMzQxNWY1NjU0MzEyNmM5NjUzMGI0NWQzOTIwN2UwYzQyMmI1OWU0NThjM2M3YjU0YzZiN2ViNGU2ZTBjNDczZmE5ZTRkOTU2NTRlMTExMzMyYzdhNzE3MDY2MiIsInQiOjE1OTkzNzI5NDYsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.QZGW2ResKr-0g1tazkGgdf3XkxsKFUJdVmTV2wMt9CE/com.github.yeyushengfan258.WinSur-dark.tar.xz</payload>
+  <tags>linux,unix,theme,kde,plasma,look-and-feel,original-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

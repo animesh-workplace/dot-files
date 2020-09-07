@@ -1,0 +1,476 @@
+cannot convert KDE_FULL_SESSION argument to STRING or COMPOUND_TEXT.
+kdeinit5: preparing to launch '/usr/lib/kf5/klauncher'
+kdeinit5: Launched KLauncher, pid = 19761, result = 0
+kdeinit5: opened connection to :0
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/nsm/.gtkrc:/home/nsm/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/nsm/.gtkrc-2.0:/home/nsm/.config/gtkrc-2.0' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_THEME=breeze_cursors' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_SIZE=24' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/BrainiacII:@/tmp/.ICE-unix/19819,unix/BrainiacII:/tmp/.ICE-unix/19819' from launcher.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/desktop.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/desktop.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+*** WARNING *** The program 'barrier' called 'DNSServiceRegister()' which is not supported (or only supported partially) in the Apple Bonjour compatibility layer of Avahi.
+*** WARNING *** Please fix your application to use the native API of Avahi!
+*** WARNING *** For more information see <http://0pointer.de/blog/projects/avahi-compat.html>
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+** Message: 15:28:16.854: updates_checker.vala:119: check updates
+** Message: 15:28:18.035: updates_checker.vala:146: 0 updates found
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: PID 20099 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: PID 20173 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 20170 terminated.
+kdeinit5: PID 20098 terminated.
+kdeinit5: PID 20089 terminated.
+kdeinit5: PID 20092 terminated.
+kdeinit5: PID 20149 terminated.
+kdeinit5: PID 20119 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 20424 terminated.
+kdeinit5: PID 20407 terminated.
+kdeinit5: PID 20408 terminated.
+kdeinit5: PID 20425 terminated.
+kdeinit5: PID 20094 terminated.
+
+(process:20517): GLib-GIO-WARNING **: 15:33:54.679: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/desktop.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/desktop.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+** Message: 15:35:05.069: updates_checker.vala:119: check updates
+** Message: 15:35:43.650: updates_checker.vala:119: check updates
+** Message: 15:35:44.824: updates_checker.vala:146: 0 updates found
+** Message: 15:35:44.824: updates_checker.vala:119: check updates
+** Message: 15:35:45.979: updates_checker.vala:146: 0 updates found
+** Message: 15:35:45.979: updates_checker.vala:146: 0 updates found
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: PID 20384 terminated.
+kdeinit5: PID 20427 terminated.
+kdeinit5: PID 20423 terminated.
+kdeinit5: PID 20418 terminated.
+kdeinit5: PID 20598 terminated.
+kdeinit5: PID 20596 terminated.
+kdeinit5: PID 20593 terminated.
+kdeinit5: PID 21618 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+[22089:22089:0906/154012.593179:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[22359:1:0906/154012.967067:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[22509:1:0906/154017.132274:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[22913:1:0906/154044.840500:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[23266:1:0906/154057.947086:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[23267:1:0906/154057.950437:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+kdeinit5: PID 20096 terminated.
+kdeinit5: PID 20097 terminated.
+kdeinit5: PID 20133 terminated.
+kdeinit5: PID 22058 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 23409 terminated.
+[23995:1:0906/155126.264835:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[24022:1:0906/155129.771246:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[24037:1:0906/155138.207096:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+kdeinit5: PID 23408 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: PID 24393 terminated.
+kdeinit5: PID 24407 terminated.
+kdeinit5: PID 24394 terminated.
+[25488:1:0906/160526.813926:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[25487:1:0906/160526.814111:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[25521:1:0906/160532.554893:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[25541:1:0906/160547.749211:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[25734:1:0906/160743.271971:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[25761:1:0906/160753.306731:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[25778:1:0906/160756.884458:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[25791:1:0906/160757.014142:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[25810:1:0906/160757.449076:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[25825:1:0906/160757.836032:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[22089:22089:0906/160758.452040:ERROR:shared_image_representation.cc(151)] Attempt to read from an uninitialized SharedImage
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: PID 25919 terminated.
+kdeinit5: PID 25915 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: PID 25917 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 26882 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 26871 terminated.
+kdeinit5: PID 26856 terminated.
+kdeinit5: PID 26860 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: PID 25873 terminated.
+kdeinit5: PID 25871 terminated.
+kdeinit5: PID 27323 terminated.
+kdeinit5: PID 26872 terminated.
+kdeinit5: PID 26884 terminated.
+kdeinit5: PID 26744 terminated.
+kdeinit5: PID 26745 terminated.
+kdeinit5: PID 25874 terminated.
+kdeinit5: PID 26861 terminated.
+[27702:1:0906/162557.422026:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[27703:1:0906/162557.422822:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[27736:1:0906/162605.909871:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[27755:1:0906/162611.445933:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[27771:1:0906/162614.864460:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[27788:1:0906/162623.216558:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[27813:1:0906/162633.335708:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[27826:1:0906/162641.640191:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[27843:1:0906/162643.243456:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[27888:1:0906/162647.269974:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+** Message: 16:27:46.851: updates_checker.vala:119: check updates
+** Message: 16:27:47.995: updates_checker.vala:146: 0 updates found
+** Message: 17:27:47.919: updates_checker.vala:119: check updates
+** Message: 17:27:49.073: updates_checker.vala:146: 0 updates found
+** Message: 18:27:48.950: updates_checker.vala:119: check updates
+** Message: 18:27:50.084: updates_checker.vala:146: 0 updates found
+** Message: 19:27:49.950: updates_checker.vala:119: check updates
+** Message: 19:27:51.086: updates_checker.vala:146: 0 updates found
+** Message: 20:27:50.909: updates_checker.vala:119: check updates
+** Message: 20:27:52.127: updates_checker.vala:146: 0 updates found
+** Message: 21:27:52.900: updates_checker.vala:119: check updates
+** Message: 21:27:54.061: updates_checker.vala:146: 0 updates found
+** Message: 22:27:53.951: updates_checker.vala:119: check updates
+** Message: 22:27:58.009: updates_checker.vala:146: 0 updates found
+** Message: 23:27:57.951: updates_checker.vala:119: check updates
+** Message: 23:27:59.094: updates_checker.vala:146: 0 updates found
+** Message: 00:27:58.950: updates_checker.vala:119: check updates
+** Message: 00:28:00.108: updates_checker.vala:146: 0 updates found
+** Message: 01:28:00.873: updates_checker.vala:119: check updates
+** Message: 01:28:02.088: updates_checker.vala:146: 0 updates found
+** Message: 02:28:01.922: updates_checker.vala:119: check updates
+** Message: 02:28:03.080: updates_checker.vala:146: 0 updates found
+** Message: 03:28:02.910: updates_checker.vala:119: check updates
+** Message: 03:28:04.075: updates_checker.vala:146: 0 updates found
+** Message: 04:28:03.872: updates_checker.vala:119: check updates
+** Message: 04:28:08.024: updates_checker.vala:146: 0 updates found
+** Message: 05:28:07.947: updates_checker.vala:119: check updates
+** Message: 05:28:09.088: updates_checker.vala:146: 0 updates found
+** Message: 06:28:08.866: updates_checker.vala:119: check updates
+** Message: 06:28:09.945: updates_checker.vala:146: 0 updates found
+** Message: 07:28:09.950: updates_checker.vala:119: check updates
+** Message: 07:28:11.079: updates_checker.vala:146: 0 updates found
+** Message: 08:28:10.950: updates_checker.vala:119: check updates
+** Message: 08:28:12.120: updates_checker.vala:146: 0 updates found
+** Message: 09:28:12.950: updates_checker.vala:119: check updates
+** Message: 09:28:14.091: updates_checker.vala:146: 0 updates found
+** Message: 10:28:13.923: updates_checker.vala:119: check updates
+** Message: 10:28:26.146: updates_checker.vala:146: 0 updates found
+** Message: 11:28:26.910: updates_checker.vala:119: check updates
+** Message: 11:28:28.047: updates_checker.vala:146: 0 updates found
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 33977 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 33980 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 33965 terminated.
+kdeinit5: PID 33974 terminated.
+kdeinit5: PID 33970 terminated.
+kdeinit5: PID 34103 terminated.
+kdeinit5: PID 33989 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 34101 terminated.
+kdeinit5: PID 33971 terminated.
+kdeinit5: PID 34854 terminated.
+kdeinit5: PID 33975 terminated.
+kdeinit5: PID 33976 terminated.
+[35319:35319:0907/114315.807877:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[35605:1:0907/114316.208595:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[35640:1:0907/114320.446367:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[35653:1:0907/114320.596909:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[35669:1:0907/114320.762685:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[35685:1:0907/114321.303892:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[35703:1:0907/114321.937974:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[35833:1:0907/114327.095752:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[36878:1:0907/114336.355931:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[36958:1:0907/114509.698653:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[36993:1:0907/114521.012571:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[37062:1:0907/114544.167472:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 37171 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: PID 37170 terminated.
+kdeinit5: PID 37204 terminated.
+kdeinit5: PID 37205 terminated.
+kdeinit5: PID 37159 terminated.
+kdeinit5: PID 37172 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 37161 terminated.
+kdeinit5: PID 37162 terminated.
+kdeinit5: PID 37156 terminated.
+kdeinit5: PID 37226 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 37261 terminated.
+kdeinit5: PID 37262 terminated.
+kdeinit5: PID 37260 terminated.
+kdeinit5: PID 37257 terminated.
+kdeinit5: PID 37255 terminated.
+kdeinit5: PID 37256 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: PID 37259 terminated.
+kdeinit5: PID 37655 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: PID 37618 terminated.
+kdeinit5: PID 37619 terminated.
+kdeinit5: PID 37949 terminated.
+kdeinit5: PID 37263 terminated.
+kdeinit5: PID 38397 terminated.
+[38662:1:0907/121454.199383:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[38690:1:0907/121504.313016:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[38712:1:0907/121529.121019:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[38730:1:0907/121532.339111:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[38748:1:0907/121541.449371:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[40048:1:0907/122211.047506:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[40047:1:0907/122211.049132:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[40076:1:0907/122218.979632:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[41869:1:0907/122821.335241:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[41870:1:0907/122821.336302:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[35290:35290:0907/122824.105007:ERROR:CONSOLE(691)] "Uncaught TypeError: Cannot read property 'path' of undefined", source: chrome://settings/lazy_load.js (691)
+[35290:35290:0907/122825.412742:ERROR:CONSOLE(691)] "Uncaught TypeError: Cannot read property 'path' of undefined", source: chrome://settings/lazy_load.js (691)
+** Message: 12:28:27.869: updates_checker.vala:119: check updates
+** Message: 12:28:29.057: updates_checker.vala:146: 0 updates found
+[42008:1:0907/122843.827164:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42009:1:0907/122843.831835:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42035:1:0907/122850.668392:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42054:1:0907/122851.277021:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42084:1:0907/122946.965192:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42098:1:0907/122946.974769:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42144:1:0907/122957.053213:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42145:1:0907/122957.057650:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42170:1:0907/123000.002357:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42192:1:0907/123029.098573:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42303:1:0907/123035.804422:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42304:1:0907/123035.805891:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42419:1:0907/123123.146824:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42424:1:0907/123123.148424:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42449:1:0907/123124.439757:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42548:1:0907/123250.315560:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42549:1:0907/123250.317690:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42578:1:0907/123257.411619:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42579:1:0907/123257.418182:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42605:1:0907/123302.411936:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42604:1:0907/123302.415597:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42632:1:0907/123303.043171:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42633:1:0907/123303.045023:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42659:1:0907/123310.547761:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42695:1:0907/123325.692140:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[42772:1:0907/123331.612429:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 43055 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+[43208:1:0907/123643.969157:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[43209:1:0907/123643.970544:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+kdeinit5: PID 43123 terminated.
+kdeinit5: PID 43047 terminated.
+kdeinit5: PID 43065 terminated.
+kdeinit5: PID 43063 terminated.
+kdeinit5: PID 37920 terminated.
+[43472:1:0907/124744.306297:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[43473:1:0907/124744.307087:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[43504:1:0907/124754.071789:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[43522:1:0907/124758.801787:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[43544:1:0907/124832.499201:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[43522:17:0907/124834.083270:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{},\"stack\":[{\"file\":\"../../media/filters/decrypting_video_decoder.cc\",\"line\":53}],\"status_code\":264,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"DecryptingVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
+[43522:17:0907/124834.083587:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{},\"stack\":[{\"file\":\"../../media/filters/vpx_video_decoder.cc\",\"line\":135}],\"status_code\":265,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"VpxVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
+[43522:17:0907/124834.083865:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{\"codec\":\"h264\"},\"stack\":[{\"file\":\"../../media/filters/dav1d_video_decoder.cc\",\"line\":165}],\"status_code\":260,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"Dav1dVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
+[43570:1:0907/124838.670917:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[43593:1:0907/124913.057026:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[43608:1:0907/124914.922209:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[43623:1:0907/124916.327053:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[43608:15:0907/124917.414990:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{},\"stack\":[{\"file\":\"../../media/filters/decrypting_video_decoder.cc\",\"line\":53}],\"status_code\":264,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"DecryptingVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
+[43608:15:0907/124917.415344:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{},\"stack\":[{\"file\":\"../../media/filters/vpx_video_decoder.cc\",\"line\":135}],\"status_code\":265,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"VpxVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
+[43608:15:0907/124917.415607:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"{\"causes\":[{\"causes\":[],\"data\":{\"codec\":\"h264\"},\"stack\":[{\"file\":\"../../media/filters/dav1d_video_decoder.cc\",\"line\":165}],\"status_code\":260,\"status_message\":\"\"}],\"data\":{\"Decoder name\":\"Dav1dVideoDecoder\"},\"stack\":[{\"file\":\"../../media/filters/decoder_selector.cc\",\"line\":172}],\"status_code\":265,\"status_message\":\"\"}"}
+[43646:1:0907/124920.627050:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+[43811:1:0907/125218.322977:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[43812:1:0907/125218.325089:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[43916:1:0907/125323.450608:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[43939:1:0907/125331.538580:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[43960:1:0907/125334.361091:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 43697 terminated.
+[44174:1:0907/125550.664203:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[44256:1:0907/125721.660107:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[44271:1:0907/125732.914979:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[44284:1:0907/125734.352771:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[44297:1:0907/125734.846521:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+kdeinit5: PID 43062 terminated.
+kdeinit5: PID 43987 terminated.
+kdeinit5: PID 43698 terminated.
+kdeinit5: PID 43989 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+[44731:1:0907/130501.681176:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[44732:1:0907/130501.684981:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[44773:1:0907/130505.865698:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[44789:1:0907/130510.624952:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+kdeinit5: PID 44600 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: PID 44601 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'

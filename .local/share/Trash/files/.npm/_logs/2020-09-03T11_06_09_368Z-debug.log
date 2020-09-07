@@ -1,0 +1,34 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'run', 'flow' ]
+2 info using npm@6.14.7
+3 info using node@v14.8.0
+4 verbose run-script [ 'preflow', 'flow', 'postflow' ]
+5 info lifecycle vue-flow@0.1.0~preflow: vue-flow@0.1.0
+6 info lifecycle vue-flow@0.1.0~flow: vue-flow@0.1.0
+7 verbose lifecycle vue-flow@0.1.0~flow: unsafe-perm in lifecycle true
+8 verbose lifecycle vue-flow@0.1.0~flow: PATH: /usr/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/home/nsm/Desktop/NSM/test/vue-flow/node_modules/.bin:/home/nsm/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin
+9 verbose lifecycle vue-flow@0.1.0~flow: CWD: /home/nsm/Desktop/NSM/test/vue-flow
+10 silly lifecycle vue-flow@0.1.0~flow: Args: [ '-c', 'flow' ]
+11 silly lifecycle vue-flow@0.1.0~flow: Returned: code: 2  signal: null
+12 info lifecycle vue-flow@0.1.0~flow: Failed to exec flow script
+13 verbose stack Error: vue-flow@0.1.0 flow: `flow`
+13 verbose stack Exit status 2
+13 verbose stack     at EventEmitter.<anonymous> (/usr/lib/node_modules/npm/node_modules/npm-lifecycle/index.js:332:16)
+13 verbose stack     at EventEmitter.emit (events.js:314:20)
+13 verbose stack     at ChildProcess.<anonymous> (/usr/lib/node_modules/npm/node_modules/npm-lifecycle/lib/spawn.js:55:14)
+13 verbose stack     at ChildProcess.emit (events.js:314:20)
+13 verbose stack     at maybeClose (internal/child_process.js:1051:16)
+13 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:287:5)
+14 verbose pkgid vue-flow@0.1.0
+15 verbose cwd /home/nsm/Desktop/NSM/test/vue-flow
+16 verbose Linux 5.7.17-2-MANJARO
+17 verbose argv "/usr/bin/node" "/usr/bin/npm" "run" "flow"
+18 verbose node v14.8.0
+19 verbose npm  v6.14.7
+20 error code ELIFECYCLE
+21 error errno 2
+22 error vue-flow@0.1.0 flow: `flow`
+22 error Exit status 2
+23 error Failed at the vue-flow@0.1.0 flow script.
+23 error This is probably not a problem with npm. There is likely additional logging output above.
+24 verbose exit [ 2, true ]

@@ -1,0 +1,9 @@
+[Added Associations]
+application/javascript=sublime_text.desktop;
+inode/directory=sublime_text.desktop;
+
+[Default Applications]
+application/javascript=sublime_text.desktop;
+inode/directory=sublime_text.desktop;
+text/html=firefox.desktop
+x-scheme-handler/postman=Postman.desktop

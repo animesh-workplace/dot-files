@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Cheerful-Phantasy-Global Look And Feel
+Name=Cheerful-Phantasy-Global
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=l4k1987@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Cheerful-Phantasy-Global
+X-KDE-PluginInfo-Version=1.3
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1390295,kns://colorschemes.knsrc/api.kde-look.org/1390289,kns://plasma-themes.knsrc/api.kde-look.org/1390305,kns://aurorae.knsrc/api.kde-look.org/1390287,kns://icons.knsrc/api.kde-look.org/1390301,kns://icons.knsrc/api.kde-look.org/1390299,kns://icons.knsrc/api.kde-look.org/1281798,kns://icons.knsrc/api.kde-look.org/1298508,kns://wallpaper.knsrc/api.kde-look.org/1184925,kns://wallpaper.knsrc/api.kde-look.org/1390264,kns://wallpaper.knsrc/api.kde-look.org/1390265,kns://sddmtheme.knsrc/api.kde-look.org/1390280

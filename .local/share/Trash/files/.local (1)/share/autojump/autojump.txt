@@ -1,0 +1,6 @@
+10	/home/nsm/Desktop
+20	/home/nsm/Desktop/NSM
+30.000000000000004	/home/nsm/Desktop/NSM/nsm-backend
+28.284271247461902	/home/nsm/Desktop/NSM/nsm-frontend
+17.320508075688775	/home/nsm/dot-files
+10	/

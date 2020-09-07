@@ -1,0 +1,18 @@
+[Appearance]
+Skin=tabsonly
+SkinInstalledWithKns=true
+Translucency=true
+
+[DownloadDialog Settings]
+Height 1080=481
+Width 1920=700
+
+[Favorite Profiles]
+Favorites=
+
+[KFileDialog Settings]
+iconViewIconSize=43
+
+[Window]
+ShowSystrayIcon=false
+ShowTabBar=false

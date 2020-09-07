@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="107">
+  <name>WhiteSur cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1411743</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>77</rating>
+  <downloads>23967</downloads>
+  <installedfile>/home/nsm/.icons/WhiteSur-cursors/*</installedfile>
+  <installedfile>/home/nsm/.icons//</installedfile>
+  <id>1411743</id>
+  <releasedate>2020-08-12</releasedate>
+  <summary>WhiteSur cursors</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/7/d/7/f09b709b76cbcaa053dcb9a3c84d0ed845c25f24870a3af83977f89b43ca00da11b9.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/7/d/7/f09b709b76cbcaa053dcb9a3c84d0ed845c25f24870a3af83977f89b43ca00da11b9.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTcyMTk1NTAiLCJvIjoiMSIsInMiOiIxNjY2ZTk0MWE2OGRmYzA4MWFkNmIwNzYwN2E1NGQ1YjFiZjJjMjE3OTEzNjJkODEzZGU1MTZhN2UyM2Q1ZGMxOTcyOTFhMmNiOWU3ZDMyMWUxODEzMmE1NjY0Y2I2YThjYjI1ZTZlNDAzMGVmZDA1MWYyM2NhYTA3NGE4NjcwMiIsInQiOjE1OTkyMzE3MzgsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.9zkAEmgB6XNU6irdsZZLwkJB3yjmK9ew7Msgeokt-cM/WhiteSur-cursors.tar.xz</payload>
+  <tags>original-product,linux,unix,cursor,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>McMojave cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1355701</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>86</rating>
+  <downloads>223901</downloads>
+  <installedfile>/home/nsm/.icons/McMojave-cursors/*</installedfile>
+  <installedfile>/home/nsm/.icons//</installedfile>
+  <id>1355701</id>
+  <releasedate>2020-01-30</releasedate>
+  <summary>This is an x-cursor theme inspired by macOS &lt;br />
+based on capitaine-cursors &lt;a href="http:// https://github.com/keeferrourke/capitaine-cursors " target="_blank" rel="nofollow"> https://github.com/keeferrourke/capitaine-cursors &lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/c/1/a/70a26c84b31a9129c36a25dce18a1a2dfc0d.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/c/1/a/70a26c84b31a9129c36a25dce18a1a2dfc0d.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODA0MDIzODkiLCJvIjoiMSIsInMiOiJjYjFhOTE1NTExOTlhYWQxOGY4Yzc4NmIxNmQwNzQwNjkzNzVkM2Q0NTk4NzU4MDE2OTRiZTQ2ZWIwNzZjMjI5NzMwZTBiODZjMTA1OGRmMDcyYTg3MDE2MWZhMGFhMzA4M2I5ZTk2ZTQ5OGM2NTVmM2E4NjM5MDVkNTBlMzNiOSIsInQiOjE1OTkzMDY1OTQsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.trQNyek3_lde3Xv2B7qojn_GZFQ1aiE9BZP67R1OoCM/McMojave-cursors.tar.xz</payload>
+  <tags>linux,unix,cursor,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>We10XOS cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1381208</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>76</rating>
+  <downloads>23243</downloads>
+  <installedfile>/home/nsm/.icons/We10XOS-cursors/*</installedfile>
+  <installedfile>/home/nsm/.icons//</installedfile>
+  <id>1381208</id>
+  <releasedate>2020-06-07</releasedate>
+  <summary>We10XOS cursors for linux desktops&lt;br />
+This is an x-cursor theme inspired by WinOS &lt;br />
+based on capitaine-cursors&lt;a href="https://github.com/keeferrourke/capitaine-cursors" target="_blank" rel="nofollow">https://github.com/keeferrourke/capitaine-cursors&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/9/7/d/c16de0d4feab8568339ca8af96635c6d8d1d.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/9/7/d/c16de0d4feab8568339ca8af96635c6d8d1d.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTE1MTgzMDIiLCJvIjoiMSIsInMiOiI2ODJhYjVlMDA4MWM0MWVjY2RiYjVkYTFmNmE3NTYyMWMwYTA0YzA4NzM4NWEzZmVlM2MyOWNjMGZhMWM4YTg1YTA3MjYyMTBjNzA2MDc3OTllMDVlNjJiZDM1MmMxZWFmNDE0NDhiYmIxODU3M2ZlNmJkM2U3ZTA3ZjVjZDcyNSIsInQiOjE1OTkzNzI5OTAsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.nbHDAvjzGRZ5mqRA_lrDA4UKPuT_LENMmB9kiuDOOSg/We10XOS-cursors.tar.gz</payload>
+  <tags>linux,unix,cursor,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

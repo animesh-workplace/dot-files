@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-x-qml
+Name=Login.qml
+Type=Link
+URL[$e]=file:///usr/share/sddm/themes/WhiteSur/Login.qml
+X-KDE-LastOpenedWith=sublime_text

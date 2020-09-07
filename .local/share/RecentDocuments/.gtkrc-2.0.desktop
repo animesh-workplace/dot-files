@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=.gtkrc-2.0
+Type=Link
+URL[$e]=file:$HOME/.gtkrc-2.0
+X-KDE-LastOpenedWith=sublime_text

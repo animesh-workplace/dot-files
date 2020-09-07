@@ -1,0 +1,16 @@
+{
+    "id": "bebd97389ea97ebaac53b0e809acac0a",
+    "metadata": {
+        "fullname": "xrandr-Dell Inc.-DELL E2420H-1LHDW23",
+        "name": "DP1"
+    },
+    "mode": {
+        "refresh": 60,
+        "size": {
+            "height": 1080,
+            "width": 1920
+        }
+    },
+    "rotation": 1,
+    "scale": 1
+}

@@ -1,0 +1,7 @@
+2020/09/06-12:20:48.350 136a Reusing MANIFEST /home/nsm/.config/opera/IndexedDB/https_vuesax.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/06-12:20:48.350 136a Recovering log #3
+2020/09/06-12:20:48.390 136a Reusing old log /home/nsm/.config/opera/IndexedDB/https_vuesax.com_0.indexeddb.leveldb/000003.log 
+2020/09/06-12:22:30.613 163c Level-0 table #5: started
+2020/09/06-12:22:30.659 163c Level-0 table #5: 1309 bytes OK
+2020/09/06-12:22:30.701 163c Delete type=0 #3
+2020/09/06-12:22:30.702 163c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

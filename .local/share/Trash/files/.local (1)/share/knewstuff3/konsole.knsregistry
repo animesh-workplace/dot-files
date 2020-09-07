@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="462">
+  <name>Sweet KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1297008</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>77</rating>
+  <downloads>55288</downloads>
+  <installedfile>/home/nsm/.local/share/konsole/Sweet-Mars.colorscheme</installedfile>
+  <installedfile>/home/nsm/.local/share/konsole/Sweet.colorscheme</installedfile>
+  <installedfile>/home/nsm/.local/share/konsole//</installedfile>
+  <id>1297008</id>
+  <releasedate>2019-08-17</releasedate>
+  <summary>Color scheme to fit my &lt;a href="https://www.opendesktop.org/p/1294174/" target="_blank" rel="nofollow">Sweet KDE&lt;/a> plasma theme</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/f/8/6/28fbd1b2f2a53d9e950a4d853e01e2dade4d.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/f/8/6/28fbd1b2f2a53d9e950a4d853e01e2dade4d.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NjYwNzE5MjgiLCJvIjoiMSIsInMiOiJjNmRhYWQyZTNiM2VmOWEwYmY5NmU3ZTY1ZTc2YmVjZDE4ODA2NWIyMDc0M2YwM2UyMDVkMjI1ZTUzNjM3OTBlZWRlNmFjODA4MDBmOGQ4NTJiYWFlMDY2MTFkMzNjZDY3NzZiYjkxOGNhODM0NWU3NzYxOWVmNmMzMzBjYzRkMCIsInQiOjE1OTkzNzIwOTIsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.n3KAwb2IqNF07QAV2k8daqSF0Z7dy8atVjQ8Mffkx14/Sweet.tar.xz</payload>
+  <tags>gplv3,addon</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="462">
+  <name>Aritim-Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>mrcuve0</author>
+  <homepage>https://store.kde.org/p/1283010</homepage>
+  <licence></licence>
+  <version>0.5</version>
+  <rating>71</rating>
+  <downloads>59854</downloads>
+  <installedfile>/home/nsm/.local/share/konsole/Aritim Dark.colorscheme</installedfile>
+  <id>1283010</id>
+  <releasedate>2019-06-10</releasedate>
+  <summary>&lt;h2>Aritim-Dark Theme&lt;/h2>&lt;br />
+&lt;span style="color: #D21010;">&lt;strong>Click on the "Homepage" link for additional infos&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+&lt;span style="color: #2E4669;">&lt;strong>RELATED PRODUCTS:&lt;/strong>&lt;/span>&lt;br />
+&lt;ul>&lt;li> &lt;a href="https://www.pling.com/p/1281836/" target="_blank"...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/7/f/b/3fa01785bf0c3fe92b8af29295cf18ebc20c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/7/f/b/3fa01785bf0c3fe92b8af29295cf18ebc20c.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NjAxODc0MjUiLCJvIjoiMSIsInMiOiJiMDU5MThjNWMzMGU0ZGI2MmVjNWQ0OGQ4M2VkZGZlMDc5YjkxOTBjZGQ1YjNhNTFjNDQ3MjI5NGY0NWNkZjNjMDUxYTZjNGJmNGVmNTVlNTA1ZDMyYTgzZDYxNGYwYTY4NmEyNmQ2MWYyODdhMWUwM2QwODY3MDAyOWU1MjlmZiIsInQiOjE1OTkzNzIwODMsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.r1uE8wOMDgEA9TZLTBrDfVCn-HhKtE3YPDUOEx2BFps/Aritim Dark.colorscheme</payload>
+  <tags>aritim,dark,color,scheme,konsole,addon,gplv3,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

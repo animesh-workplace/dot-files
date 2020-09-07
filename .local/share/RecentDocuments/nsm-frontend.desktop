@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=inode-directory
+Name=nsm-frontend
+Type=Link
+URL[$e]=file:$HOME/Desktop/NSM/nsm-frontend
+X-KDE-LastOpenedWith=sublime_text

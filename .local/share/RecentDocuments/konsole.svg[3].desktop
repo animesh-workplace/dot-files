@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=image-svg+xml
+Name=konsole.svg
+Type=Link
+URL[$e]=file:$HOME/.local/share/icons/Papirus-Dark/128x128/apps/konsole.svg
+X-KDE-LastOpenedWith=org.kde.plasmashell

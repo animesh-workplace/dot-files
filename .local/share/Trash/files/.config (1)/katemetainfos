@@ -1,0 +1,119 @@
+[file:///etc/sddm.conf.d/kde_settings.conf]
+Bookmarks=
+Checksum=9d091935b6bd3711689ac17d08d3583e93cd24f2
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,9,6,6,53,43
+URL=file:///etc/sddm.conf.d/kde_settings.conf
+
+[file:///home/nsm/.local/share/icons/la-capitaine-icon-theme/apps/scalable/terminal.svg]
+Bookmarks=
+Checksum=95000b8c478cf724a0b014638f5ee88170dbfe45
+Encoding=UTF-8
+Highlighting=XML
+Highlighting Set By User=false
+Indentation Mode=xml
+Mode=XML
+Mode Set By User=false
+Time=2020,9,6,9,35,21
+URL=file:///home/nsm/.local/share/icons/la-capitaine-icon-theme/apps/scalable/terminal.svg
+
+[file:///home/nsm/Desktop/NSM/bwa_files/bash_script]
+Bookmarks=
+Checksum=51dce9f3a781feb30d167a36a70e9adcd47c113e
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,9,3,7,40,53
+URL=file:///home/nsm/Desktop/NSM/bwa_files/bash_script
+
+[file:///home/nsm/Downloads/bwa-0.5.9/README]
+Bookmarks=
+Checksum=f398cec54b3c0ba5399ee3df8442478daad1309c
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,9,3,6,49,10
+URL=file:///home/nsm/Downloads/bwa-0.5.9/README
+
+[file:///home/nsm/Downloads/bwa-0.5.9/bwt_gen/bwa.txt]
+Bookmarks=
+Checksum=a02dc256346451288dd204665b6fc723c4fa1b80
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,9,3,6,48,52
+URL=file:///home/nsm/Downloads/bwa-0.5.9/bwt_gen/bwa.txt
+
+[file:///home/nsm/Downloads/bwa-0.7.16/rle.h]
+Bookmarks=
+Checksum=c66b8cbb2977e1e1516c00b3938092eb70c0f913
+Encoding=UTF-8
+Highlighting=C++
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=C++
+Mode Set By User=false
+Time=2020,9,3,7,1,27
+URL=file:///home/nsm/Downloads/bwa-0.7.16/rle.h
+
+[file:///home/nsm/Downloads/bwa-0.7.17/Makefile]
+Bookmarks=
+Checksum=715143579df3030c28c79ecbdfe1f4a10313f155
+Encoding=UTF-8
+Highlighting=Makefile
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Makefile
+Mode Set By User=false
+Time=2020,9,3,6,33,43
+URL=file:///home/nsm/Downloads/bwa-0.7.17/Makefile
+
+[file:///home/nsm/Downloads/bwa-0.7.17/bwakit/README.md]
+Bookmarks=
+Checksum=b7a67eaaa56a7413febb19e86c4892186e3071be
+Encoding=UTF-8
+Highlighting=Markdown
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Markdown
+Mode Set By User=false
+Time=2020,9,3,6,48,50
+URL=file:///home/nsm/Downloads/bwa-0.7.17/bwakit/README.md
+
+[file:///home/nsm/Downloads/bwa-0.7.17/rle.h]
+Bookmarks=
+Checksum=c66b8cbb2977e1e1516c00b3938092eb70c0f913
+Encoding=UTF-8
+Highlighting=C++
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=C++
+Mode Set By User=false
+Time=2020,9,3,7,1,29
+URL=file:///home/nsm/Downloads/bwa-0.7.17/rle.h
+
+[file:///usr/share/sddm/themes/WhiteSur/theme.conf]
+Bookmarks=
+Checksum=9b06ff68a9e2c2ac518b4479d08416a050fe227b
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,9,5,9,43,10
+URL=file:///usr/share/sddm/themes/WhiteSur/theme.conf

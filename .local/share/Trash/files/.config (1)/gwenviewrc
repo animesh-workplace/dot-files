@@ -1,0 +1,22 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[MainWindow]
+Height 1080=480
+State=AAAA/wAAAAD9AAAAAAAAAwIAAAGdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=770
+
+[Print]
+PrintHeight=21.22
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/Wallpapers/New folder (2)/mountains-5120x2880-macos-4k-5k-sierra-sky-android-wallpaper-11473.jpg
+File2[$e]=$HOME/Pictures/Wallpapers/New folder (2)/lake-aurora-3840x2160-4k-hd-wallpaper-florida-night-sky-stars-12771.jpg
+File3[$e]=/usr/share/sddm/themes/WhiteSur/Preview.png
+Name1[$e]=mountains-5120x2880-macos-4k-5k-sierra-sky-android-wallpaper-11473.jpg
+Name2[$e]=lake-aurora-3840x2160-4k-hd-wallpaper-florida-night-sky-stars-12771.jpg
+Name3[$e]=Preview.png
+
+[SideBar]
+SideBarSplitterSizes=242,525

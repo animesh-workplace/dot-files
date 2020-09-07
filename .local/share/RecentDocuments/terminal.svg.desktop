@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=image-svg+xml
+Name=terminal.svg
+Type=Link
+URL[$e]=file:$HOME/.local/share/icons/la-capitaine-icon-theme/apps/scalable/terminal.svg
+X-KDE-LastOpenedWith=org.kde.kate

@@ -1,0 +1,16 @@
+[DownloadDialog Settings]
+Height 1080=481
+Width 1920=700
+
+[KFileDialog Settings]
+Recent Files[$e]=lake-aurora-3840x2160-4k-hd-wallpaper-florida-night-sky-stars-12771.jpg,file:$HOME/Pictures/Wallpapers/New folder (2)/xiaomi-mi-mix-3-2560x1440-abstract-dark-20776.jpg,file:$HOME/Pictures/Wallpapers/New folder (2)/fedora_29_background-wallpaper-3554x1999.jpg,file:$HOME/Pictures/Wallpapers/lZQaHuY.jpg,file:$HOME/Pictures/Wallpapers/New folder (2)/abstract-3840x2160-colorful-ipad-pro-2018-dark-4k-20832.jpg,file:$HOME/Pictures/Wallpapers/New folder (2)/lake-aurora-3840x2160-4k-hd-wallpaper-florida-night-sky-stars-12771.jpg
+Recent URLs[$e]=file:$HOME/Pictures/Wallpapers/New folder (2)/
+detailViewIconSize=0
+iconViewIconSize=43
+
+[MainWindow]
+Height 1080=703
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABNgAAAK/AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1240

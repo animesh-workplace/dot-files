@@ -1,0 +1,53 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'i', '-g', 'prettier' ]
+2 info using npm@6.14.7
+3 info using node@v14.8.0
+4 verbose npm-session 3a3fddaf976734ef
+5 silly install loadCurrentTree
+6 silly install readGlobalPackageData
+7 http fetch GET 304 https://registry.npmjs.org/prettier 273ms (from cache)
+8 silly pacote tag manifest for prettier@latest fetched in 282ms
+9 timing stage:loadCurrentTree Completed in 308ms
+10 silly install loadIdealTree
+11 silly install cloneCurrentTreeToIdealTree
+12 timing stage:loadIdealTree:cloneCurrentTree Completed in 0ms
+13 silly install loadShrinkwrap
+14 timing stage:loadIdealTree:loadShrinkwrap Completed in 2ms
+15 silly install loadAllDepsIntoIdealTree
+16 silly resolveWithNewModule prettier@2.1.1 checking installable status
+17 silly removeObsoleteDep removing prettier@2.1.1 from the tree as its been replaced by a newer version or is no longer required
+18 timing stage:loadIdealTree:loadAllDepsIntoIdealTree Completed in 2ms
+19 timing stage:loadIdealTree Completed in 4ms
+20 silly currentTree lib
+20 silly currentTree `-- prettier@2.1.1
+21 silly idealTree lib
+21 silly idealTree `-- prettier@2.1.1
+22 silly install generateActionsToTake
+23 warn checkPermissions Missing write access to /usr/lib/node_modules/prettier
+24 warn checkPermissions Missing write access to /usr/lib/node_modules
+25 timing stage:rollbackFailedOptional Completed in 0ms
+26 timing stage:runTopLevelLifecycles Completed in 315ms
+27 verbose stack Error: EACCES: permission denied, access '/usr/lib/node_modules/prettier'
+28 verbose cwd /home/nsm/Desktop/NSM
+29 verbose Linux 5.8.3-2-MANJARO
+30 verbose argv "/usr/bin/node" "/usr/bin/npm" "i" "-g" "prettier"
+31 verbose node v14.8.0
+32 verbose npm  v6.14.7
+33 error code EACCES
+34 error syscall access
+35 error path /usr/lib/node_modules/prettier
+36 error errno -13
+37 error Error: EACCES: permission denied, access '/usr/lib/node_modules/prettier'
+37 error  [Error: EACCES: permission denied, access '/usr/lib/node_modules/prettier'] {
+37 error   errno: -13,
+37 error   code: 'EACCES',
+37 error   syscall: 'access',
+37 error   path: '/usr/lib/node_modules/prettier'
+37 error }
+38 error The operation was rejected by your operating system.
+38 error It is likely you do not have the permissions to access this file as the current user
+38 error
+38 error If you believe this might be a permissions issue, please double-check the
+38 error permissions of the file and its containing directories, or try running
+38 error the command again as root/Administrator.
+39 verbose exit [ -13, true ]

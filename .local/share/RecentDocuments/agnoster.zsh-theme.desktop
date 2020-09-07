@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=agnoster.zsh-theme
+Type=Link
+URL[$e]=file:$HOME/.oh-my-zsh/themes/agnoster.zsh-theme
+X-KDE-LastOpenedWith=sublime_text

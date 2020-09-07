@@ -1,0 +1,2 @@
+[2020-09-03 14:55:35.739] [sharedprocess] [info] main {"machineId":"eaaea3de00827d6ccfbee87275512f8fcf048cdd69504422b1c919cf964d21bb","windowId":2}
+[2020-09-03 14:55:35.765] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/nsm/.config/Code/User/snippets'

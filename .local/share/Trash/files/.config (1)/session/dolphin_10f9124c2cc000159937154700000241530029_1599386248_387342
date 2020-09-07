@@ -1,0 +1,19 @@
+[1]
+Active Tab Index=3
+Tab Count=4
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00%file:///home/nsm/Desktop/New%20Folder\x00\x00\x00\x00\x01\x00\x00\x006file:///home/nsm/Desktop/New%20Folder/sublime_text.svg\x00\x00\x00\x08\x00\x00\x006file:///home/nsm/Desktop/New%20Folder/sublime_text.svg\x00\x00\x007file:///home/nsm/Desktop/New%20Folder/sublime-merge.svg\x00\x00\x008file:///home/nsm/Desktop/New%20Folder/sublime-text-2.svg\x00\x00\x008file:///home/nsm/Desktop/New%20Folder/sublime-text-3.svg\x00\x00\x006file:///home/nsm/Desktop/New%20Folder/sublime-text.svg\x00\x00\x007file:///home/nsm/Desktop/New%20Folder/sublime-text2.svg\x00\x00\x001file:///home/nsm/Desktop/New%20Folder/sublime.svg\x00\x00\x005file:///home/nsm/Desktop/New%20Folder/sublimetext.svg\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 1=\x00\x00\x00\x02\x00\x00\x00\x00%file:///home/nsm/Desktop/New%20Folder\x00\x00\x00\x00\x01\x00\x00\x006file:///home/nsm/Desktop/New%20Folder/sublime_text.svg\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 2=\x00\x00\x00\x02\x00\x00\x00\x00=file:///home/nsm/.local/share/icons/Papirus-Dark/128x128/apps\x00\x00\x00\x00\x01\x00\x00\x00Tfile:///home/nsm/.local/share/icons/Papirus-Dark/128x128/apps/utilities-terminal.svg\x00\x00\x00\x01\x00\x00\x00Tfile:///home/nsm/.local/share/icons/Papirus-Dark/128x128/apps/utilities-terminal.svg\x00\x00\x00\x00\x00\x01y\xec\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x02\x14\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 3=\x00\x00\x00\x02\x00\x00\x00\x00Ifile:///home/nsm/.local/share/icons/la-capitaine-icon-theme/apps/scalable\x00\x00\x00\x00\x01\x00\x00\x00Ufile:///home/nsm/.local/share/icons/la-capitaine-icon-theme/apps/scalable/konsole.svg\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00O\xb6\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+Height 1080=743
+MenuBar=Disabled
+ObjectName=Dolphin#1
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAACv/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAoAAACvwAAAFgA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAAgD///8AAAADAAAE3AAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAE3AAAAAIA////AAADUAAAAr8AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1920=1039

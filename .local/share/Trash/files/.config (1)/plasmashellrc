@@ -1,0 +1,85 @@
+[DownloadDialog Settings]
+Height 1080=400
+Width 1920=700
+
+[KFileDialog Settings]
+Recent Files[$e]=lake-aurora-3840x2160-4k-hd-wallpaper-florida-night-sky-stars-12771.jpg,file:$HOME/.local/share/icons/Papirus-Dark/128x128/apps/konsole.svg,file:$HOME/Pictures/Wallpapers/New folder (2)/lake-aurora-3840x2160-4k-hd-wallpaper-florida-night-sky-stars-12771.jpg
+Recent URLs[$e]=file:$HOME/.local/share/icons/Papirus-Dark/128x128/apps/
+detailViewIconSize=100
+iconViewIconSize=32
+listViewIconSize=15
+
+[KPropertiesDialog]
+Height 1080=375
+Width 1920=406
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_applications:kvantummanager.desktop,1 services_applications:opera.desktop,1 services_timeshift-gtk.desktop
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaTransientsConfig]
+PreloadWeight=0
+
+[PlasmaViews][Panel 1][Defaults]
+thickness=40
+
+[PlasmaViews][Panel 1][Horizontal1024]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1152]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1200]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1280]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1366]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1440]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1600]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1680]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1900]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1916]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1920]
+thickness=40
+
+[PlasmaViews][Panel 1][Horizontal2048]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal800]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal864]
+thickness=45
+
+[PlasmaViews][Panel 22][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 22][Horizontal1920]
+thickness=27
+
+[PlasmaViews][Panel 26][Defaults]
+thickness=32
+
+[PlasmaViews][Panel 26][Horizontal1920]
+thickness=32
+
+[ScreenConnectors]
+0=DP1
+1=:0.0
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js

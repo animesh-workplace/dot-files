@@ -1,0 +1,252 @@
+cannot convert KDE_FULL_SESSION argument to STRING or COMPOUND_TEXT.
+kdeinit5: preparing to launch '/usr/lib/kf5/klauncher'
+kdeinit5: Launched KLauncher, pid = 19761, result = 0
+kdeinit5: opened connection to :0
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/nsm/.gtkrc:/home/nsm/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/nsm/.gtkrc-2.0:/home/nsm/.config/gtkrc-2.0' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_THEME=breeze_cursors' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_SIZE=24' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/BrainiacII:@/tmp/.ICE-unix/19819,unix/BrainiacII:/tmp/.ICE-unix/19819' from launcher.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/desktop.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/desktop.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+*** WARNING *** The program 'barrier' called 'DNSServiceRegister()' which is not supported (or only supported partially) in the Apple Bonjour compatibility layer of Avahi.
+*** WARNING *** Please fix your application to use the native API of Avahi!
+*** WARNING *** For more information see <http://0pointer.de/blog/projects/avahi-compat.html>
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+** Message: 15:28:16.854: updates_checker.vala:119: check updates
+** Message: 15:28:18.035: updates_checker.vala:146: 0 updates found
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: PID 20099 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: PID 20173 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 20170 terminated.
+kdeinit5: PID 20098 terminated.
+kdeinit5: PID 20089 terminated.
+kdeinit5: PID 20092 terminated.
+kdeinit5: PID 20149 terminated.
+kdeinit5: PID 20119 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 20424 terminated.
+kdeinit5: PID 20407 terminated.
+kdeinit5: PID 20408 terminated.
+kdeinit5: PID 20425 terminated.
+kdeinit5: PID 20094 terminated.
+
+(process:20517): GLib-GIO-WARNING **: 15:33:54.679: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/desktop.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/desktop.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+** Message: 15:35:05.069: updates_checker.vala:119: check updates
+** Message: 15:35:43.650: updates_checker.vala:119: check updates
+** Message: 15:35:44.824: updates_checker.vala:146: 0 updates found
+** Message: 15:35:44.824: updates_checker.vala:119: check updates
+** Message: 15:35:45.979: updates_checker.vala:146: 0 updates found
+** Message: 15:35:45.979: updates_checker.vala:146: 0 updates found
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: PID 20384 terminated.
+kdeinit5: PID 20427 terminated.
+kdeinit5: PID 20423 terminated.
+kdeinit5: PID 20418 terminated.
+kdeinit5: PID 20598 terminated.
+kdeinit5: PID 20596 terminated.
+kdeinit5: PID 20593 terminated.
+kdeinit5: PID 21618 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+[22089:22089:0906/154012.593179:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[22359:1:0906/154012.967067:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[22509:1:0906/154017.132274:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[22913:1:0906/154044.840500:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[23266:1:0906/154057.947086:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[23267:1:0906/154057.950437:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+kdeinit5: PID 20096 terminated.
+kdeinit5: PID 20097 terminated.
+kdeinit5: PID 20133 terminated.
+kdeinit5: PID 22058 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 23409 terminated.
+[23995:1:0906/155126.264835:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[24022:1:0906/155129.771246:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[24037:1:0906/155138.207096:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+kdeinit5: PID 23408 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: PID 24393 terminated.
+kdeinit5: PID 24407 terminated.
+kdeinit5: PID 24394 terminated.
+[25488:1:0906/160526.813926:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[25487:1:0906/160526.814111:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[25521:1:0906/160532.554893:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[25541:1:0906/160547.749211:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[25734:1:0906/160743.271971:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[25761:1:0906/160753.306731:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[25778:1:0906/160756.884458:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[25791:1:0906/160757.014142:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[25810:1:0906/160757.449076:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[25825:1:0906/160757.836032:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[22089:22089:0906/160758.452040:ERROR:shared_image_representation.cc(151)] Attempt to read from an uninitialized SharedImage
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: PID 25919 terminated.
+kdeinit5: PID 25915 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: PID 25917 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 26882 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 26871 terminated.
+kdeinit5: PID 26856 terminated.
+kdeinit5: PID 26860 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: PID 25873 terminated.
+kdeinit5: PID 25871 terminated.
+kdeinit5: PID 27323 terminated.
+kdeinit5: PID 26872 terminated.
+kdeinit5: PID 26884 terminated.
+kdeinit5: PID 26744 terminated.
+kdeinit5: PID 26745 terminated.
+kdeinit5: PID 25874 terminated.
+kdeinit5: PID 26861 terminated.
+[27702:1:0906/162557.422026:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[27703:1:0906/162557.422822:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[27736:1:0906/162605.909871:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[27755:1:0906/162611.445933:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[27771:1:0906/162614.864460:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[27788:1:0906/162623.216558:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[27813:1:0906/162633.335708:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[27826:1:0906/162641.640191:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[27843:1:0906/162643.243456:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+[27888:1:0906/162647.269974:ERROR:child_thread_impl.cc(800)] Receiver for unknown Channel-associated interface: search.mojom.SearchBouncer
+** Message: 16:27:46.851: updates_checker.vala:119: check updates
+** Message: 16:27:47.995: updates_checker.vala:146: 0 updates found
+** Message: 17:27:47.919: updates_checker.vala:119: check updates
+** Message: 17:27:49.073: updates_checker.vala:146: 0 updates found
+** Message: 18:27:48.950: updates_checker.vala:119: check updates
+** Message: 18:27:50.084: updates_checker.vala:146: 0 updates found
+** Message: 19:27:49.950: updates_checker.vala:119: check updates
+** Message: 19:27:51.086: updates_checker.vala:146: 0 updates found
+** Message: 20:27:50.909: updates_checker.vala:119: check updates
+** Message: 20:27:52.127: updates_checker.vala:146: 0 updates found
+** Message: 21:27:52.900: updates_checker.vala:119: check updates
+** Message: 21:27:54.061: updates_checker.vala:146: 0 updates found
+** Message: 22:27:53.951: updates_checker.vala:119: check updates
+** Message: 22:27:58.009: updates_checker.vala:146: 0 updates found
+** Message: 23:27:57.951: updates_checker.vala:119: check updates
+** Message: 23:27:59.094: updates_checker.vala:146: 0 updates found
+** Message: 00:27:58.950: updates_checker.vala:119: check updates
+** Message: 00:28:00.108: updates_checker.vala:146: 0 updates found
+** Message: 01:28:00.873: updates_checker.vala:119: check updates
+** Message: 01:28:02.088: updates_checker.vala:146: 0 updates found
+** Message: 02:28:01.922: updates_checker.vala:119: check updates
+** Message: 02:28:03.080: updates_checker.vala:146: 0 updates found
+** Message: 03:28:02.910: updates_checker.vala:119: check updates
+** Message: 03:28:04.075: updates_checker.vala:146: 0 updates found
+** Message: 04:28:03.872: updates_checker.vala:119: check updates
+** Message: 04:28:08.024: updates_checker.vala:146: 0 updates found
+** Message: 05:28:07.947: updates_checker.vala:119: check updates
+** Message: 05:28:09.088: updates_checker.vala:146: 0 updates found
+** Message: 06:28:08.866: updates_checker.vala:119: check updates
+** Message: 06:28:09.945: updates_checker.vala:146: 0 updates found
+** Message: 07:28:09.950: updates_checker.vala:119: check updates
+** Message: 07:28:11.079: updates_checker.vala:146: 0 updates found
+** Message: 08:28:10.950: updates_checker.vala:119: check updates
+** Message: 08:28:12.120: updates_checker.vala:146: 0 updates found
+** Message: 09:28:12.950: updates_checker.vala:119: check updates
+** Message: 09:28:14.091: updates_checker.vala:146: 0 updates found
+** Message: 10:28:13.923: updates_checker.vala:119: check updates
+** Message: 10:28:26.146: updates_checker.vala:146: 0 updates found
+** Message: 11:28:26.910: updates_checker.vala:119: check updates
+** Message: 11:28:28.047: updates_checker.vala:146: 0 updates found
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 33977 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 33980 terminated.

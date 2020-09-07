@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="563">
+  <name>Dash To Panel</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1310555</homepage>
+  <licence></licence>
+  <version>0.4.1</version>
+  <rating>74</rating>
+  <downloads>6806</downloads>
+  <installedfile>/tmp/latte-indicator-dashtopanel-0.4.1.zip</installedfile>
+  <id>1310555</id>
+  <releasedate>2020-05-15</releasedate>
+  <summary>Options:&lt;br />
+-- Line Style: Metro/Ciliora/Dashes&lt;br />
+-- Background options (max opacity / line thickness)&lt;br />
+-- Reverse Lines position</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/e/7/0/3/eb919f18c5811c6fdbb0bf36527b467f98e2.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/e/7/0/3/eb919f18c5811c6fdbb0bf36527b467f98e2.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODk1MjU2ODciLCJvIjoiMSIsInMiOiJmNmNmM2UwMzgwYThjN2RiZDQ0ZTE4M2FhZDU3NDQ4YzFmZjE0Nzc1ZDRlOWFjNzkxZWNmYmI1YjAwZWJlYmVlOGY3OTk0NTY4NGE0YjZjMTU1NDA2NTc5ZTYzNGVmMGM5ZDgyNDc3ZTA2NzdhMDEzM2U5OGI2MzE3YzFjNTM5NyIsInQiOjE1OTkzNzk3NzksInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.fAYszUPdS_G1SoJV52DriwYoaEMjGZM2-zV0ujbC77Y/latte-indicator-dashtopanel-0.4.1.zip</payload>
+  <tags>linux,unix,extension,latte,indicator,dash,panel,original-product,gplv2-later</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="563">
+  <name>Win10 Indicator</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1387421</homepage>
+  <licence></licence>
+  <version>0.1.0</version>
+  <rating>65</rating>
+  <downloads>2387</downloads>
+  <installedfile>/tmp/latte-indicator-win10-0.1.0.zip</installedfile>
+  <id>1387421</id>
+  <releasedate>2020-05-26</releasedate>
+  <summary>Win10 style indicator for Latte, to work properly it needs Latte&amp;gt;=0.9.2&lt;br />
+&lt;br />
+Options:&lt;br />
+-- progress animation&lt;br />
+-- properly shown grouped tasks&lt;br />
+-- option for the user to adjust applets padding&lt;br />
+-- option for the user to enable/disable progress animation</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/3/3/d/4a30cc5f40cd6bfec4639125fc00244a7f84.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/3/3/d/4a30cc5f40cd6bfec4639125fc00244a7f84.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTA1MTAyMzAiLCJvIjoiMSIsInMiOiJkYmU2MzdkODNjODlhMGE3ZTFlMTZhMTAzZDJiZGMwMDM2MTA1YWFmZDNhMTNmYTYxN2M5MTZlZGU2ZWE3ZWFlYzMxMDQ1OWUzNzk2OTlhZGY3MGQzZTI4YzYzMGM2NGNlNWZmYzNlZTQ1MmFmYzUxMDlkODcyNjY0Y2MzZGZlNiIsInQiOjE1OTkzNzk3NzMsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.r8LW_XRauG3UX-gAf78muInH5Q7OllivEAFnBqwNElU/latte-indicator-win10-0.1.0.zip</payload>
+  <tags>gplv2-later,linux,unix,extension,original-product,latte,indicator,win10,dock</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

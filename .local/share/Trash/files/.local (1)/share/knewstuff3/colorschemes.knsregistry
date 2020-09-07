@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>WinSur-dark Color Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1373641</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>438</downloads>
+  <installedfile>/home/nsm/.local/share/color-schemes/WinSurDark.colors</installedfile>
+  <installedfile>/home/nsm/.local/share/color-schemes//</installedfile>
+  <id>1373641</id>
+  <releasedate>2020-08-30</releasedate>
+  <summary>Mc-WinSur-dark kde is a light clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>Plasmoids for KDE&lt;/strong>&lt;br />
+------------------------------&lt;br />
+Main launcher: Tiled Menu &lt;br />
+Clock: Better inline clock&lt;br />
+Applets: Present Windows Button &lt;br />
+------------------------------&lt;br />
+&lt;strong>WinSur-dark Golbal Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1373646/" target="_blank" rel="nofollow">https://www.pling.com/p/1373646/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Aurorae Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1373642/" target="_blank" rel="nofollow">https://www.pling.com/p/1373642/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Sddm Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1373643/" target="_blank" rel="nofollow">https://www.pling.com/p/1373643/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Plasma Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1373645/" target="_blank" rel="nofollow">https://www.pling.com/p/1373645/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Wallpaper&lt;/strong>:&lt;a href="https://www.pling.com/p/1400964/" target="_blank" rel="nofollow">https://www.pling.com/p/1400964/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Kvantum&lt;/strong>:&lt;a href="https://www.pling.com/p/1373644/" target="_blank" rel="nofollow">https://www.pling.com/p/1373644/&lt;/a>&lt;br />
+------------------------------&lt;br />
+&lt;strong>McMuse icon theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1348081/" target="_blank" rel="nofollow">https://www.pling.com/p/1348081/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/6/2/9/d15e55875fa6ab1cb0a044b8417712bbb95210f856455c248511a385f177f1958058.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/6/2/9/d15e55875fa6ab1cb0a044b8417712bbb95210f856455c248511a385f177f1958058.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTg3ODE3NDkiLCJvIjoiMSIsInMiOiI0MGI1NDEwYzEyZGU1YzhkNzUzOTBjNTRkMjZlMjFiYTdmYjYzYzczMjgxODY0ZmQ3NjUyODE0YTk1YTQ1ODJiMzFlYzhhODQ0MDZlMDllMWIyYzNmMGE1MWI4OGMwM2VjZThiODNkMGRkZjM1ZDM0MTM0YWYyZDc2ZjlhZTE0NyIsInQiOjE1OTkzNzI5NTAsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.f6qfwfifyhXUDGPxD2mwdMtW-LlQNRH5FY7GCIt9dBM/WinSurDark.tar.xz</payload>
+  <tags>gplv3,original-product,linux,unix,theme,kde,plasma,colorscheme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>McMojave Color</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1305007</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>69</rating>
+  <downloads>262334</downloads>
+  <id>1305007</id>
+  <releasedate>2019-09-06</releasedate>
+  <summary>McMojave kde is a MacOSX Mojave like theme for KDE Plasma desktop.&lt;br />
+-------------------------&lt;br />
+You can use this with:&lt;br />
+-------------------------&lt;br />
+&lt;strong>- Aurorae Themes&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1305005/" target="_blank" rel="nofollow">https://www.pling.com/p/1305005/&lt;/a>&lt;br />
+&lt;strong>- Kvantum Themes&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1304957/" target="_blank" rel="nofollow">https://www.pling.com/p/1304957/&lt;/a>&lt;br />
+&lt;strong>- Plasma Desktop Themes&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1305006/" target="_blank" rel="nofollow">https://www.pling.com/p/1305006/&lt;/a>&lt;br />
+&lt;strong>- Plasma Look-and-Feel Settings&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1304936/" target="_blank" rel="nofollow">https://www.pling.com/p/1304936/&lt;/a>&lt;br />
+-------------------------&lt;br />
+&lt;strong>- Icon theme: McMojave-circle&lt;/strong>&lt;br />
+&lt;a href="https://www.opendesktop.org/p/1305429" target="_blank" rel="nofollow">https://www.opendesktop.org/p/1305429&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/2/b/3/0cffc96cd6e5caf6ce8b4f66b7ea7290025c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/2/b/3/0cffc96cd6e5caf6ce8b4f66b7ea7290025c.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Njc3NTI4NzYiLCJvIjoiMSIsInMiOiIxZmY4M2IxZWQyMzVmYWVlOTk3ODIzYjc3YWNkMDFkNzBhYjBjMTc4MTNlNjdmZjMwNTg0YzMyMTUzZGY3YTBiMGEyOTRmMGY5MmQ2OGZlYzUxOGRhNTI4YWVhYzgxZjJlNTlkMjY3MDZiYTI4NjQzMDcwNmY1YmMwN2ViN2MxYSIsInQiOjE1OTkzMDY0ODUsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.3ma9ceRI5KqqnUHd_buksLv-QY_Yu9Pn3_FbF4b2kw0/McMojave.tar.xz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma,colorscheme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Cheerful-Phantasy-Light</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1390289</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>60</rating>
+  <downloads>6091</downloads>
+  <installedfile>/home/nsm/.local/share/color-schemes/CheerfulPhantasyLight.colors</installedfile>
+  <id>1390289</id>
+  <releasedate>2020-06-04</releasedate>
+  <summary>&lt;strong>Light Colorsheme  For Light Plasma Themes &lt;br />
+&lt;br />
+Dark Colorsheme  For Dark  Plasma Theme &lt;span style="color: #3f808a;"> &lt;strong>Cheerful-Phantasy&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1390295/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Cheerful-Phantasy Plasma&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1390264/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Cheerful-Phantasy-Flat&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1390265/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+------------------&lt;br />
+&lt;br />
+Walpaper &lt;span style="color: #3f808a;"> &lt;strong>You cant change whats going on around you until you start...&lt;/strong>&lt;/span>&lt;strong>: &lt;a href="https://www.pling.com/p/1342256" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Author wallpaper: &lt;a href="https://www.pling.com/u/shareorlikeit/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;/span>&lt;/a>&lt;/strong>&lt;a href="https://www.pling.com/u/shareorlikeit/" target="_blank" rel="nofollow">&lt;span style="color: red;">shareorlikeit&lt;/span>&lt;/a>&lt;/strong>&lt;a href="https://www.pling.com/u/shareorlikeit/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+__________________&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>HDR Sessions 57 Wallpaper By Charlie Henson&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1184925/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Author Wallpaper: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/d/c/3/5048cf5df5e2d1abce2a5bf7236c15d03a99.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/d/c/3/5048cf5df5e2d1abce2a5bf7236c15d03a99.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTEyODQ2MDMiLCJvIjoiMSIsInMiOiJjZGRiMmE1ZTEwMmRkNzllZmQxYzg2ODE2N2FmMzg1OTkzMzcyM2RiYjYzODc3MGQ0YTA4YjlkODMyNGE4MGRkYTBmNzlmOWQwODM1YzZhNjAxZjE2OTIzNzI0ODBiZTkxOTZjZTkzYWY2MDMxNzVjMWMzZGRkYWIwMGEyMGYyYSIsInQiOjE1OTkyMzQ3MTcsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.JU3z3E9zEhdqR7_FvmzJS0VhT_KTH2948fp4CwhDeLU/CheerfulPhantasyLight.colors</payload>
+  <tags>gplv3,original-product,linux,unix,theme,kde,plasma,colorscheme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>WhiteSur Color</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1398831</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>60788</downloads>
+  <installedfile>/home/nsm/.local/share/color-schemes/WhiteSur.colors</installedfile>
+  <installedfile>/home/nsm/.local/share/color-schemes/WhiteSurDark.colors</installedfile>
+  <installedfile>/home/nsm/.local/share/color-schemes//</installedfile>
+  <id>1398831</id>
+  <releasedate>2020-07-06</releasedate>
+  <summary>MacOS big sur theme for kde plasma</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/6/3/2/129887a42b22bb843754c81631903b901c02.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/6/3/2/129887a42b22bb843754c81631903b901c02.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTQwMjk2MTIiLCJvIjoiMSIsInMiOiJmZmUyZTBjZmI0ODYxZWZkODY5ODE0MjMyNTgzOWQyYWJiYzUyZGI5ODFmNWRjODhjOGE3NzA3ZmFiN2YxNjM5NzllNWNhNTgxYWI2OThlNThlZmFkMWU5YjllYmRhOWVlYTZhNDEzZjAyZWYxYzcwZWZkMTNlMzZlMzhhZGI3YiIsInQiOjE1OTkyMzE2ODUsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.w-WQdTLWY-JHh6-Tgj5Gu4bCFNChb2N35uCD35X4X10/WhiteSur.tar.xz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma,colorscheme,modification-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Cheerful-Phantasy</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1390295</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>6358</downloads>
+  <installedfile>/home/nsm/.local/share/color-schemes/CheerfulPhantasy.colors</installedfile>
+  <id>1390295</id>
+  <releasedate>2020-06-04</releasedate>
+  <summary>&lt;strong>Dark Colorsheme, customized for the &lt;span style="color: #3f808a;"> &lt;strong>Cheerful-Phantasy&lt;/strong> &lt;/span>  Plasma Theme, which you can download: &lt;a href="https://store.kde.org/p/1390305/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Light Colorsheme For Light Plasma Themes: &lt;a href="https://store.kde.org/p/1390289/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Cheerful-Phantasy Plasma&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1390264/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Cheerful-Phantasy-Flat&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1390265/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+------------------&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>HDR Sessions 57 Wallpaper By Charlie Henson&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1184925/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/4/b/2/11bda8bfdeadd0a82d4d61499ed515fd7018.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/4/b/2/11bda8bfdeadd0a82d4d61499ed515fd7018.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTEyODU2MTgiLCJvIjoiMSIsInMiOiJjZTIyMTQwYzc0NGRjZGZmODI5ZDc3YzgwM2UxN2M5MmUxZWI1YjdjZjZkNDIzOGRlYmYxYTcyNGIzMjc4ZDk0MWRkY2M2MGYyNjllZjgwNWYwMjNmNjZhZjMxNDZjYWY5OWIwNDZlY2FiMzFkMTgwMjEwNTI5YzBlMGVhYTlkZCIsInQiOjE1OTkyMzQ3MTQsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.Ivy1jCb6xbLET82inmYi-Z-zCVI41n-W1omcV28uo6o/CheerfulPhantasy.colors</payload>
+  <tags>gplv3,original-product,linux,unix,theme,kde,plasma,colorscheme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

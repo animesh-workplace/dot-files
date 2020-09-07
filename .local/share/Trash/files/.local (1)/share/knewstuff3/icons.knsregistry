@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>McMuse icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1348081</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>86</rating>
+  <downloads>1223</downloads>
+  <installedfile>/home/nsm/.local/share/icons/McMuse-black-dark/*</installedfile>
+  <installedfile>/home/nsm/.local/share/icons/McMuse-black/*</installedfile>
+  <installedfile>/home/nsm/.local/share/icons//</installedfile>
+  <id>1348081</id>
+  <releasedate>2020-09-01</releasedate>
+  <summary>&lt;strong>McMuse Icon Theme&lt;/strong>&lt;br />
+A colorful Design icon theme for linux desktops&lt;br />
+&lt;br />
+Imitation of deviantart tuts-iconpack. Honor belongs to the author.&lt;br />
+&lt;a href="https://www.deviantart.com/ampeross/art/TUTS-iconpack-699574494" target="_blank"...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/e/7/d/a89bfe8f695471055ee2ccbe23b28a33d212.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/e/7/d/a89bfe8f695471055ee2ccbe23b28a33d212.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTg5NjQyMTciLCJvIjoiMSIsInMiOiJjZDFhZTA2MzQxZTNiYzQ0Zjk0N2NjMTIzODQwYzM0ZThjNGYxMzdiYjU0MzM0YzkwMDY2Y2M0OWMzYmRiMWFjOTMyOTZkOTMyMGFkZGExOTRlMzRjMDBiYTBiZjAwNjY3YmI4ODBlNGQ2ZGMwZDQ4NjJlOWQ1Yzc5MzNhYTVkNCIsInQiOjE1OTkzNzI5NjQsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.JPFwDzyKhtBOnYWSDE8IW71o44uOxaBzW-MFIscRYnY/McMuse-black.tar.xz</payload>
+  <tags>gplv3,modification-product,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Breeze Chameleon Light</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1298508</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>66</rating>
+  <downloads>25777</downloads>
+  <id>1298508</id>
+  <releasedate>2020-08-05</releasedate>
+  <summary>&lt;strong>&lt;span style="color: #d88d00;"> &lt;strong>Breeze Chameleon Light Icons&lt;/strong> &lt;/span>&lt;br />
+(Icons for Light Plasma Themes)&lt;br />
+&lt;br />
+&lt;span style="color: blue;"> &lt;strong>- The folders change color depending on the  &lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/6/7/7/c5bee9d2aa625c74b50c1a9716bd894194b6.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/6/7/7/c5bee9d2aa625c74b50c1a9716bd894194b6.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTY2NDM0MDMiLCJvIjoiMSIsInMiOiI1ZGQ4ZWNjYWM0ZDViNmE0NTkzZWU2ZWQ1YThiYzYyMmM5MzBlZDgxNGFlYjhhYzFkNDdkZmQ5MTc1OTJmNmY1MjhiNTI3ZDRjMjNkNTIzNzM0M2NiN2RlZTMwZDJkNzY0NjA4OWY5MDQ5OWYxNjcwMzkwMmU0Yzc1NDMwMjNlNCIsInQiOjE1OTkyMzQ4MjEsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.SW7DWzPqWeQ7waAXJwLGWpJ_J4oy5TzjajZ-2ZZXuWo/Breeze-Chameleon Light.tar.gz</payload>
+  <tags>gplv3,efi,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Breeze-Cheerful-Phantasy-Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1390301</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>60</rating>
+  <downloads>1994</downloads>
+  <id>1390301</id>
+  <releasedate>2020-08-20</releasedate>
+  <summary>&lt;strong>Icons for Dark Plasma Theme &lt;span style="color: #3f808a;"> &lt;strong>Cheerful-Phantasy&lt;/strong> &lt;/span> , which you can download: &lt;a href="https://store.kde.org/p/1390305/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Based on Default &lt;span...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/c/f/c/b4b57f2a7b9cb2f5c6748d788646b512bd4c.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/c/f/c/b4b57f2a7b9cb2f5c6748d788646b512bd4c.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTc5MTYzMTMiLCJvIjoiMSIsInMiOiJhZDJmN2I0ODZkYWMwOWEyNWVjNjZmOGZjOTdmYmRhOTEzNGRmNzBmNmNkN2Y5NGE2YTBmNjVhNDE3NGZjMWQxOTk5NGU1ZjliYTQzNWU2MzRjMDI5NTdjYWE5NWUxOWU1NmJlOWViMjM0MWI4NTdhYWY0ZTg5NjQzMTUzMjhmMiIsInQiOjE1OTkyMzQ3MzEsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.FYQ3cfC0KbqlVN4_S67fDKIdKfR_adgXecQVQEDI9BM/Breeze-Cheerful-Phantasy-Dark.tar.gz</payload>
+  <tags>gplv3,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Breeze-Cheerful-Phantasy-Light</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1390299</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>1326</downloads>
+  <id>1390299</id>
+  <releasedate>2020-08-20</releasedate>
+  <summary>&lt;strong>Icons for Light Plasma Themes  &lt;br />
+&lt;br />
+Based on Default &lt;span style="color: blue;"> &lt;strong>Breeze&lt;/strong> &lt;/span> Icons&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #3f808a;"> &lt;strong>Cheerful-Phantasy-Dark&lt;/strong> &lt;/span>: &lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/a/b/c/7616e40df983574ee61c70f2faec82b30758.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/a/b/c/7616e40df983574ee61c70f2faec82b30758.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTc5MTU4MzEiLCJvIjoiMSIsInMiOiI0MzEwMzU0NDQ4NWU3NWE1OGM2MjAyMTdmNTg3ZGMyMDRlZWJmYWVmODExNTEyZGE2MjIyMmZmYWViNTdkYjI2NDk4NTM3YzE0ZWY5MTE4NTA1ZjZmNzdmNGRmNmMxZDBkMDk0Y2UzM2I4ZWU0MGU4NWYwZTg0NjFmZjdmZTA1MSIsInQiOjE1OTkyMzQ3NjIsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.FPDbwT3UXFLMZIW5Iy_zAUWcUZct3qkhYLMn4um_gTI/Breeze-Cheerful-Phantasy-Light.tar.gz</payload>
+  <tags>linux,unix,icon-theme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Mkos-Big-Sur</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/1400021</homepage>
+  <licence></licence>
+  <version>beta 0.0.7.5</version>
+  <rating>84</rating>
+  <downloads>3932</downloads>
+  <installedfile>/home/nsm/.local/share/icons/Mkos-Big-Sur-Transparent-Panel/*</installedfile>
+  <installedfile>/home/nsm/.local/share/icons/Mkos-Big-Sur/*</installedfile>
+  <installedfile>/home/nsm/.local/share/icons/Mkos-Big-Sur-Night/*</installedfile>
+  <installedfile>/home/nsm/.local/share/icons//</installedfile>
+  <id>1400021</id>
+  <releasedate>2020-08-31</releasedate>
+  <summary>Icon set that imitate look to the icons of the new apple operating system version 11, created 100% in inkscape, no blurry backgrounds, instead I use the gradient tool and the technique of repeating multiple transparent images to give the same effect, this to ensure correct representation in all...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/5/6/5/b52bb3a48d72826cb92c47c1cdfb9aba0084.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/5/6/5/b52bb3a48d72826cb92c47c1cdfb9aba0084.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTg4NTE4MTMiLCJvIjoiMSIsInMiOiI3OGI3YjM5MzllOTJhMjNhNmFhN2ZkYzA4ZTg3MDE2MGQ0M2VhNzc2NTNiYTZjZWVkZjE4MDMxMzc5YWIxYmQzMmFmMjBjMWJjNWZiMDc2ZDZmNGZjYzc1ODIyZTA4ZDA0NmNmM2Y5ODliYWJjNjI1ZTU1YzE2NjQzN2NlNDc4OCIsInQiOjE1OTkyMzI4NzYsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.J3KKUFyMMTi1d2ZTgZsHOZirYdRVbZ_-gZban2ywSyY/Mkos-Big-Sur.tar.xz</payload>
+  <tags>big-sur,macos,catalina,mojace,apple,linux,unix,icon-theme,agplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Papirus</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1166289</homepage>
+  <licence></licence>
+  <version>20200901</version>
+  <rating>90</rating>
+  <downloads>829462</downloads>
+  <installedfile>/home/nsm/.local/share/icons/Papirus/*</installedfile>
+  <installedfile>/home/nsm/.local/share/icons/AUTHORS</installedfile>
+  <installedfile>/home/nsm/.local/share/icons/LICENSE</installedfile>
+  <installedfile>/home/nsm/.local/share/icons/ePapirus/*</installedfile>
+  <installedfile>/home/nsm/.local/share/icons/Papirus-Dark/*</installedfile>
+  <installedfile>/home/nsm/.local/share/icons/Makefile</installedfile>
+  <installedfile>/home/nsm/.local/share/icons/Papirus-Light/*</installedfile>
+  <installedfile>/home/nsm/.local/share/icons//</installedfile>
+  <id>1166289</id>
+  <releasedate>2020-09-01</releasedate>
+  <summary>Papirus - it's free and open source SVG-based icon theme for Linux with material and flat style.&lt;br />
+All elements have clear distinction and outlines. Also main feature - it's jucy colors tone.&lt;br />
+&lt;br />
+Papirus support hardcode-tray script:&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/1/7/2/017b5ab37ec7309285f12e61770f38244d68.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/1/7/2/017b5ab37ec7309285f12e61770f38244d68.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTg5NTE4MjgiLCJvIjoiMSIsInMiOiJjYmMwZjc5NzQxN2U5Nzg4NTg3MDc1ZDg4YjVmNDBmNDRkNzU5Y2RmYTcwZTA0ZjU2NzYwN2FjN2QwMDdkM2ViMjdkNGRlMWRlNDA1NWQyYzFjZjY0ZTIzNDMxNmUwYjVmYzJmMTYzYzUwN2ViMmFhMThiYTM3YjFlZjYwZGQ0YyIsInQiOjE1OTkyMzIxNjMsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.6oxwZRowOqKWLYBhCmCo57uPOT2dOWAD77unpQbKIXA/papirus-icon-theme.tar.gz</payload>
+  <tags>linux,unix,papirus,icon-theme,icons,material,original-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Qogir icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1296407</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>92</rating>
+  <downloads>4985</downloads>
+  <installedfile>/home/nsm/.local/share/icons/Qogir-manjaro/*</installedfile>
+  <installedfile>/home/nsm/.local/share/icons/Qogir-manjaro-dark/*</installedfile>
+  <installedfile>/home/nsm/.local/share/icons//</installedfile>
+  <id>1296407</id>
+  <releasedate>2020-08-19</releasedate>
+  <summary>This is a colorful and flat design icon theme with obvious borders.&lt;br />
+----------&lt;br />
+In order to provide a consistent experience across all desktops, &lt;br />
+I designed this theme to support all popular desktops.&lt;br />
+----------&lt;br />
+ wish you guys like it!&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/f/e/f/2f6b77157742c0f7b75227950025fe86b81f.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/f/e/f/2f6b77157742c0f7b75227950025fe86b81f.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTc4MjA5MTUiLCJvIjoiMSIsInMiOiJjMTEzZDY0YjNkODRjYTliNjg2NjlmZGRmODU1ZTU2ZjZjMWVmMWZkMmVjNjYxYTI3NzQxMTJlZTRiZTJiNGE5M2QyMzU4ZTFhNDNkZTE0OWEwN2RlOGU2Nzg1NTliNTAxOGZmMGJlNzQ3MzMwNmQyNmE3ODNiYjUzYWU2NmNhMSIsInQiOjE1OTkyMzE5MjgsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.6l2Qir8XwDAWKGJbEsJfKnXYSNx4w6_H0ecsMR1e54M/02-Qogir-manjaro.tar.xz</payload>
+  <tags>original-product,gplv3,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>WhiteSur icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1405756</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>83</rating>
+  <downloads>20885</downloads>
+  <installedfile>/home/nsm/.local/share/icons/WhiteSur/*</installedfile>
+  <installedfile>/home/nsm/.local/share/icons/WhiteSur-dark/*</installedfile>
+  <installedfile>/home/nsm/.local/share/icons//</installedfile>
+  <id>1405756</id>
+  <releasedate>2020-08-20</releasedate>
+  <summary>WhiteSur icon theme for linux desktops&lt;br />
+----------------------------&lt;br />
+&lt;br />
+&lt;strong>Based on: &lt;strong>&lt;br />
+OSX_ONE: &lt;a href="https://github.com/unc926/OSX_ONE" target="_blank" rel="nofollow">https://github.com/unc926/OSX_ONE&lt;/a>&lt;br />
+Os-Catalina: &lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/7/0/b/5/db663c850dae98f46b3b7588ae264f28b8298a3c9d9ab63cf867a2cf936f786a3475.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/7/0/b/5/db663c850dae98f46b3b7588ae264f28b8298a3c9d9ab63cf867a2cf936f786a3475.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTc5MzIxMTgiLCJvIjoiMSIsInMiOiJhYjk4YmU0NDM1Y2FmNTk5YjY2MjFhYjBhZTc3MmE5YzRlZTM4ZjFmNTMyZDQ3MWU0ZDJiOTgyMWU5OTg2NTQwYmZlMjU2YTZkMDViMjEyNGYwOTI0YTZjYzNkM2JjNGU1YzU4ODMzYzc3MDBhMzM5ZWM0ZTEwNWY2MDlhN2JmYSIsInQiOjE1OTkyMzE3MjAsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.SS1pVKgHOwq44rjMehWpmHeuUOYlIQpXJ_C5WznRs9I/WhiteSur.tar.xz</payload>
+  <tags>gplv3,original-product,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>McMojave-circle</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1305429</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>92</rating>
+  <downloads>25854</downloads>
+  <id>1305429</id>
+  <releasedate>2020-08-17</releasedate>
+  <summary>MacOSX Mojave like circle icon theme for linux desktops&lt;br />
+--------------------------&lt;br />
+Based on OSX_ONE: &lt;a href="https://github.com/unc926/OSX_ONE" target="_blank" rel="nofollow">https://github.com/unc926/OSX_ONE&lt;/a>&lt;br />
+--------------------------&lt;br />
+&lt;strong>You can use this...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/2/1/f/088a401b6c0998d484a63f7b5036ea945206.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/2/1/f/088a401b6c0998d484a63f7b5036ea945206.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTc2NjgxNDkiLCJvIjoiMSIsInMiOiIxNjBlYzQ4OGUwMmZkZmNhYzUzMzYxZTY4NzAxZmJkYmNhMDg1ZDkyZTY3MjY2OTBkZGZkNDk2ZDIzNTY1YjljYzI5M2EyMmRiMTJjMDMzY2YxMjk5NWUxMWFkMDc3NDdlMGY4NjJhYzI2ZTJkZDJmNDljZDRiZDliOWI5ZmQ2OSIsInQiOjE1OTkxMzU4ODMsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.lVpNp-J--BnTwSj444gj0ByRGEnwLgv7CBE8Zf7FiB4/03-McMojave-circle-blue.tar.xz</payload>
+  <tags>gplv3,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Breeze Chameleon Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1281798</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>76</rating>
+  <downloads>26780</downloads>
+  <id>1281798</id>
+  <releasedate>2020-08-05</releasedate>
+  <summary>&lt;strong>"Breeze Chameleon Dark" Icons&lt;br />
+(Icons for Dark Plasma Themes)&lt;br />
+&lt;br />
+&lt;span style="color: blue;"> &lt;strong>- The folders change color depending on the  &lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span>...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/7/5/7/74f39172376b3e9f683f6fbc92c088b3b4591191087990da0b721c1ffea86c9e7296.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/7/5/7/74f39172376b3e9f683f6fbc92c088b3b4591191087990da0b721c1ffea86c9e7296.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTY2NDUxNjYiLCJvIjoiMSIsInMiOiI3MDQzMTQ1YWY4NGYwYTkxNzJhMDE5NzczYmQ5NWZlMDBiZGM1OTVkY2ViYWE4MTA1ZDc0ZDUyZmNhNzU1MDEyZGVlYTQ4NmE2YjBmMDk0YTc1M2RhYWU0OWZmM2JmZmY4NzYyOGRiMmNhOWJhNzEwZThjZjU0MjYyMjRmM2U1ZSIsInQiOjE1OTkyMzQ3OTEsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.Kam6FtaqUc5gswMs8_SlrzEFRlMNgbbVP_8YG1qfn-k/Breeze Chameleon Dark-20200805162352.tar.gz</payload>
+  <tags>linux,unix,icon-theme,efi,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>La Capitaine</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>krourke</author>
+  <homepage>https://store.kde.org/p/1148695</homepage>
+  <licence></licence>
+  <version>v0.6.1</version>
+  <rating>82</rating>
+  <downloads>307984</downloads>
+  <installedfile>/home/nsm/.local/share/icons/la-capitaine-icon-theme/*</installedfile>
+  <installedfile>/home/nsm/.local/share/icons//</installedfile>
+  <id>1148695</id>
+  <releasedate>2019-02-17</releasedate>
+  <summary>Announcements&lt;br />
+==========&lt;br />
+v0.6.1 is released! This is a minor bugfix and icon-request release.&lt;br />
+&lt;br />
+In the next major 0.7.0 release, look forward to:&lt;br />
+&lt;br />
+* Complete folder-color support&lt;br />
+* Hardcode-tray support&lt;br />
+&lt;br />
+Donations&lt;br />
+========&lt;br />
+I'm not...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/b/2/a/82682596e6c89475b2f21221d5dc61927887.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/b/2/a/82682596e6c89475b2f21221d5dc61927887.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NTAzODA3NzIiLCJvIjoiMSIsInMiOiJlMTczMGJiZDdkMGQ0ZjUyNzA5ZmYyYzAwMmViNmRmY2IzMGFhODkwNWVkZDZhYTNkN2NlOTUxMDQ3Y2Y2YTM3MTNlYTUyMjM4M2U0ZDY4ZGI1ZGNjYzZiNGY2NmNiZDU2YTIxY2U5OTZkNjQzNTI5OGNjNDQ4MTVlYjgzYzI5ZiIsInQiOjE1OTkzODgzMjQsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.-6d8DPTqE12Cd2k0EASHH3gbxkk7FFFlUOG0nvbxOu8/la-capitaine-icon-theme-0.6.1-20190217.tar.gz</payload>
+  <tags>icon-theme,linux,unix,original-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

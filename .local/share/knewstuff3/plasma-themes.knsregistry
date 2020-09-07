@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Cheerful-Phantasy</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1390305</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>67</rating>
+  <downloads>1249</downloads>
+  <installedfile>/home/nsm/.local/share/plasma/desktoptheme/Cheerful-Phantasy</installedfile>
+  <id>1390305</id>
+  <releasedate>2020-08-20</releasedate>
+  <summary>&lt;strong>Dark Plasma Theme, Transparent and Blur.&lt;br />
+___________________&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #4e51ac;"> &lt;strong>Breeze-Cheerful-Phantasy-Dark&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1390301/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons for Light Plasma Themes &lt;span style="color: #4e51ac;"> &lt;strong>Breeze-Cheerful-Phantasy-Light&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1390299/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+___________________ &lt;br />
+&lt;br />
+Icons: &lt;span style="color: #4e51ac;"> &lt;strong>Breeze Chameleon Dark&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1281798/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons: &lt;span style="color: #4e51ac;"> &lt;strong>Breeze Chameleon Light&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1298508/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a> &lt;br />
+&lt;br />
+- The folders change color depending on the  &lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span> &lt;span style="color: #8f267c;"> &lt;strong>You&lt;/strong> &lt;/span> &lt;span style="color: green;"> &lt;strong>Set&lt;/strong> &lt;/span>&lt;br />
+__________________&lt;br />
+&lt;br />
+Kvantum Theme &lt;span style="color: #4e51ac;"> &lt;strong>Cheerful-Phantasy&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1390308/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Global Theme (Look-and-Feel) &lt;span style="color: #4e51ac;"> &lt;strong>Cheerful-Phantasy-Global&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1390307/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Dark Plasma Color Scheme &lt;span style="color: #4e51ac;"> &lt;strong>Cheerful-Phantasy&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1390295/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Light Plasma Color Scheme &lt;span style="color: #4e51ac;"> &lt;strong>Cheerful-Phantasy-Light&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1390289/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Aurorae Theme &lt;span style="color: #4e51ac;"> &lt;strong>Cheerful-Phantasy-Aurorae&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1390287/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+SDDM LoginTheme &lt;span style="color: #4e51ac;"> &lt;strong>Cheerful-Phantasy-SDDM&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1390280/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Plasma Splashscreen &lt;span style="color: #4e51ac;"> &lt;strong>Cheerful-Phantasy-Splash&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1390284/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Konsole Color Scheme &lt;span style="color: #4e51ac;"> &lt;strong>Cheerful-Phantasy&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1390275/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+GTK-2/3 Theme &lt;span style="color: #4e51ac;"> &lt;strong>Breeze-Cheerful-Phantasy&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1390309/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a> &lt;br />
+_____________________&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Cheerful-Phantasy Plasma&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1390264/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Cheerful-Phantasy-Flat&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1390265/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+------------------&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>HDR Sessions 57 Wallpaper By Charlie Henson&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1184925/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>If you do not use the Kvantum Theme,For Blur look of the window, Kwin Scripts:&lt;span style="color: #4e51ac;"> &lt;strong>Force Blur&lt;/strong> &lt;/span>, authored by &lt;span style="color: #3771c8;"> &lt;strong>ESJEON&lt;/strong> &lt;/span>, which you can download: &lt;a href="https://store.kde.org/p/1294604/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;/strong>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/7/5/b/7/22d626e6313526fe331989d562b678cf498a.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/7/5/b/7/22d626e6313526fe331989d562b678cf498a.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTc5MTYxMjEiLCJvIjoiMSIsInMiOiI5ODlmZGQxZTk0MWQyOTEyZjE5YWMwNDcyNzJmZDNjMWIxM2YyOGRiY2RmMjY2ODc5ZDdmMTkzMGVhN2EwMDBjMTZjMTBiMWVhZDQxNzhmYzg2Y2MyY2Y5NTA0OGViY2RmNWNiMDRjZmVmZTk2M2RkMjhjZWRhZGIwNGI4YzVkZCIsInQiOjE1OTkyMzQ3MjEsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.Ihjg0SqgEIcUPpHBkhtjdQBzjg_5mcU4eSi0oJmhhuY/Cheerful-Phantasy.zip</payload>
+  <tags>original-product,gplv3,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>WinSur-dark Plasma Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1373645</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>60</rating>
+  <downloads>651</downloads>
+  <installedfile>/home/nsm/.local/share/plasma/desktoptheme/WinSur-dark</installedfile>
+  <id>1373645</id>
+  <releasedate>2020-08-29</releasedate>
+  <summary>Mc-WinSur-dark kde is a light clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>Plasmoids for KDE&lt;/strong>&lt;br />
+------------------------------&lt;br />
+Main launcher: Tiled Menu &lt;br />
+Clock: Better inline clock&lt;br />
+Applets: Present Windows Button &lt;br />
+------------------------------&lt;br />
+&lt;strong>WinSur-dark Golbal Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1373646/" target="_blank" rel="nofollow">https://www.pling.com/p/1373646/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Aurorae Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1373642/" target="_blank" rel="nofollow">https://www.pling.com/p/1373642/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Sddm Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1373643/" target="_blank" rel="nofollow">https://www.pling.com/p/1373643/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Color Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1373641/" target="_blank" rel="nofollow">https://www.pling.com/p/1373641/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Wallpaper&lt;/strong>:&lt;a href="https://www.pling.com/p/1400964/" target="_blank" rel="nofollow">https://www.pling.com/p/1400964/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Kvantum&lt;/strong>:&lt;a href="https://www.pling.com/p/1373644/" target="_blank" rel="nofollow">https://www.pling.com/p/1373644/&lt;/a>&lt;br />
+------------------------------&lt;br />
+&lt;strong>McMuse icon theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1348081/" target="_blank" rel="nofollow">https://www.pling.com/p/1348081/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/8/0/1/5500e5971d7e0aa0b00e6336702adf17b4035bddb2adaf56aaab947c7f52985ccb50.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/8/0/1/5500e5971d7e0aa0b00e6336702adf17b4035bddb2adaf56aaab947c7f52985ccb50.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTg2OTQ0MTUiLCJvIjoiMSIsInMiOiJhYmMyZmFlZGU2NDVhNTg1MGJlYjZiYTA5MzJjZDFlYzlkNWI5MWVjMzFiYzVlZDk4YjMwNmIxYjM5Y2U2YzAxODEyOTZmMDNjYjJlNWViMjZiNzVjYzJjNjMxMGFiMzgwZDczZTVmZjE0ZWY3Mzg1ZTY4YzI4ZGNkYWE3YzRkNSIsInQiOjE1OTkzNzI5NTQsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.AJKskuX7EBWjpZGqlCqwUVDxsi5hF43v0zXAXDt7_PI/WinSur-dark.tar.xz</payload>
+  <tags>gplv3,original-product,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>WhiteSur Plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1398837</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>77</rating>
+  <downloads>9503</downloads>
+  <installedfile>/home/nsm/.local/share/plasma/desktoptheme/WhiteSur</installedfile>
+  <id>1398837</id>
+  <releasedate>2020-08-12</releasedate>
+  <summary>MacOS big sur theme for kde plasma&lt;br />
+-----------------------&lt;br />
+&lt;strong>Kvantum theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1398841/" target="_blank" rel="nofollow">https://www.pling.com/p/1398841/&lt;/a>&lt;br />
+-----------------------&lt;br />
+&lt;strong>Icon theme:&lt;/strong> &lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/6/3/2/129887a42b22bb843754c81631903b901c02.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/6/3/2/129887a42b22bb843754c81631903b901c02.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTcyMjkwNDIiLCJvIjoiMSIsInMiOiJiM2FkYjI0NTE5N2FmZmNmMzQ1MDdlNTRkMjUzZTlhYTI4OGRhOWQzZDMxZjg2YjUwYjhjZmM1YTNkMjVjNDYzYWY3Y2U1ZGI3NjUyMTdmMjUyMWE1NWRhOTBlYTc5NjNjYzM4NmNjYTFjNjkxY2IzNjUzODk3OGNlZmQ4YzJmYyIsInQiOjE1OTkyMzE3NDUsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.N30pWyZRdmm3ji1STHmfESEk63NCCE1iuCxEV51_koM/WhiteSur.tar.xz</payload>
+  <tags>gplv3,original-product,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>McMojave Plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1305006</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>82</rating>
+  <downloads>29222</downloads>
+  <installedfile>/home/nsm/.local/share/plasma/desktoptheme/McMojave</installedfile>
+  <id>1305006</id>
+  <releasedate>2020-07-09</releasedate>
+  <summary>McMojave kde is a MacOSX Mojave like theme for KDE Plasma desktop.&lt;br />
+-------------------------&lt;br />
+You can use this with:&lt;br />
+-------------------------&lt;br />
+&lt;strong>- Aurorae Themes&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1305005/" target="_blank"...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/0/e/0/ae11c36cac92aa4442f0130dd3711f293b79.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/0/e/0/ae11c36cac92aa4442f0130dd3711f293b79.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTQzNTI2NjMiLCJvIjoiMSIsInMiOiI2ZWRkOWQ4YjRiYmVkMWQwZjRlNDIzMzNmN2E4ZjE2N2FmNjFhMjc2NzJmZjVkN2M5NDlhYjU0Zjk3OGYyZGE2NTZjMjdmNmFmNzkwNjBiYmQyNGZhOThjZjM4ZWE5ZGQ1NjIzMTU1ZjY3ZTQ0YTI3MGYyMTRiNWZjYmU0Yjk3OSIsInQiOjE1OTkzMDcyNzIsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.fsAZvO6vXVgFv1p-4yNUK-dHSs4wnwaolAztTDTEWwk/McMojave.tar.xz</payload>
+  <tags>linux,unix,theme,kde,plasma,gplv3,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>McMojave-light plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1355811</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>66</rating>
+  <downloads>7384</downloads>
+  <installedfile>/home/nsm/.local/share/plasma/desktoptheme/Mojave-light</installedfile>
+  <id>1355811</id>
+  <releasedate>2020-07-09</releasedate>
+  <summary>McMojave kde is a MacOSX Mojave like theme for KDE Plasma desktop.&lt;br />
+-------------------------&lt;br />
+You can use this with:&lt;br />
+-------------------------&lt;br />
+&lt;strong>- Aurorae Themes&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1305005/" target="_blank"...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/7/7/9/4e61474fdda043b5f250dee1a3b19f465040.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/7/7/9/4e61474fdda043b5f250dee1a3b19f465040.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTQzNTE5ODgiLCJvIjoiMSIsInMiOiI5NjdlY2ZmZTQzYzM2NDRiOTMxOGM5NzdiZDRhN2M0NWY1OGZkYTZhOTRhNTZiOGViOTc5NGFjZjVhOTdlYzExOGIzNTJiYTA0NGY1MzczMmRmNDYwNWRlNmFhMzY0ZWM1NjE0MDM3MTgxOTdmNTE5YjdkZTk2YjJkYmM0MzAxYyIsInQiOjE1OTkzMDcyNzksInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.v00Qw-fN1PWuLZ_Skq0koPo7EueeqB2pje_VHXkLp98/McMojave-light.tar.xz</payload>
+  <tags>linux,unix,theme,kde,plasma,original-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>ROUNDED</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1352754</homepage>
+  <licence></licence>
+  <version>20200319</version>
+  <rating>89</rating>
+  <downloads>26318</downloads>
+  <installedfile>/home/nsm/.local/share/plasma/desktoptheme/ROUNDED-DARK</installedfile>
+  <id>1352754</id>
+  <releasedate>2020-03-19</releasedate>
+  <summary>Plasma Theme inspired by Breeze style.&lt;br />
+All elements &amp;amp; icons have rounded corners.&lt;br />
+Available 3 version:&lt;br />
+- Light&lt;br />
+- Dark&lt;br />
+- Color (with full support KDE Color Scheme)&lt;br />
+&lt;br />
+Wallpaper - Space Plasma by antechdesigns:&lt;br />
+https://www.pling.com/p/1243989/</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/6/d/d/4c8201556ba7dff51791e53b38d63c7b9e5b.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/6/d/d/4c8201556ba7dff51791e53b38d63c7b9e5b.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODQ2MDUwMTMiLCJvIjoiMSIsInMiOiIzYjYzMDc4ZWU5OWY2MmI5ZDhiY2QyZjVhZWQ4YjNkZGRhODc0ZWJjNzFhZDViMDc4MGU3ZTRkNmU3OTdhODlkNGE3NWY1OGQ0MjA3MjQwNzdiOWQ5YjU2NGQxYmIzMTYzYzE0YmE2MTEwMjE0NWM2OTVmNTczOTYxOTFjYTRjOSIsInQiOjE1OTkyOTM3MzIsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.sUWoZAZkmGyX07sQpNwSlg19Z_Pb3iBXgZaQt8o90bs/ROUNDED-DARK.tar.gz</payload>
+  <tags>rounded,breeze,plasma,original-product,gplv3,linux,unix,theme,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>WhiteSur dark plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1400409</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>76</rating>
+  <downloads>21874</downloads>
+  <installedfile>/home/nsm/.local/share/plasma/desktoptheme/WhiteSur-dark</installedfile>
+  <id>1400409</id>
+  <releasedate>2020-08-12</releasedate>
+  <summary>MacOS big sur theme for kde plasma&lt;br />
+-----------------------&lt;br />
+&lt;strong>Kvantum theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1398841/" target="_blank" rel="nofollow">https://www.pling.com/p/1398841/&lt;/a>&lt;br />
+-----------------------&lt;br />
+&lt;strong>Icon theme:&lt;/strong> &lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/e/9/8/a/3e7b3166dbee0a004ed4a44a7e17218fbb19.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/e/9/8/a/3e7b3166dbee0a004ed4a44a7e17218fbb19.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTcyMjgxMjciLCJvIjoiMSIsInMiOiI1MDdmOGZmYWJlNjIxZWVmZWVhMTk3ZWIyZDkxOTZlM2Y3MTIxOGFkNzE5N2FjZGU0ZDY2ZTYwNTY3NThmNmZlOTBkOTViZmZmZWYyYTEwODdkZTgzNzRkMTA4ZTgxMmU3Y2ZiMGFhYWJhOTRhMDAzNzdjMzkwOGZkZjYyNjg2YSIsInQiOjE1OTkyMzE2ODgsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.Dq5-IpOgmyXRaKl7VgvZ6HWRmO411_oUIKg85TKuq3c/WhiteSur-dark.tar.xz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

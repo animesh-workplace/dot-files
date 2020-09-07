@@ -1,0 +1,32 @@
+[DownloadDialog Settings]
+Height 1080=400
+Width 1920=700
+
+[KFileDialog Settings]
+detailViewIconSize=0
+iconViewIconSize=43
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_applications:rstudio.desktop,1 services_applications:com.teamviewer.TeamViewer.desktop
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=DP1
+
+[UniversalSettings]
+badges3DStyle=false
+canDisableBorders=false
+currentLayout=My Layout
+downloadWindowSize=800,550
+lastNonAssignedLayout=My Layout
+launchers=
+layoutsColumnWidths=117,80,66,0
+layoutsWindowSize=700,591
+memoryUsage=0
+metaPressAndHoldEnabled=true
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+version=2

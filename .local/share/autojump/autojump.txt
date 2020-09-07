@@ -1,0 +1,7 @@
+10	/home/nsm/Desktop
+20	/home/nsm/Desktop/NSM
+31.622776601683796	/home/nsm/Desktop/NSM/nsm-backend
+33.166247903554	/home/nsm/Desktop/NSM/nsm-frontend
+20	/home/nsm/dot-files
+20	/
+10	/home/nsm/papercut

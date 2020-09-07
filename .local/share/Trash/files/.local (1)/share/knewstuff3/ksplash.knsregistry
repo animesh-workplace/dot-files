@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="488">
+  <name>Arch Simple Blue</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>dancp</author>
+  <homepage>https://store.kde.org/p/1312961</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>8562</downloads>
+  <installedfile>/home/nsm/.local/share/plasma/look-and-feel/archsimpleblue</installedfile>
+  <id>1312961</id>
+  <releasedate>2019-07-05</releasedate>
+  <summary>A simple blue Arch Linux logo for Plasma Splashscreen&lt;br />
+&lt;br />
+&lt;br />
+#INSTALLATION&lt;br />
+&lt;br />
+Extract it to ~/.local/share/plasma/look-and-feel/ &lt;br />
+&lt;br />
+&lt;br />
+This is a modified version of ArchLinux Green Splashscreen from MrMaire&lt;br />
+https://store.kde.org/p/1291719/</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/2/3/5/320d2f98881ed4c9f123fc1c2bcc31d25c69.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/2/3/5/320d2f98881ed4c9f123fc1c2bcc31d25c69.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NjIzNjg1ODEiLCJvIjoiMSIsInMiOiJjMzVjZDVlNzRhOTQwMWE4YWFmMTJlYzE4NDMwODg0MDVjNTdiN2MyYmQwYzQ3N2M0MzZhZDI1Yzg5Y2Q0ZjE0NDcyZWExMGU2OWMxNTE0NjQxNDg1NmMxZjNlMWQ2YzcxODU3NDI0NmFmZDhjYzA0MWVkNTViYmY5MTFiZjNhNiIsInQiOjE1OTkyMzMyMjcsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.lMDYewUh25S14IwdB1pQx1VaM_3BiCcLEqJcnEJDlIw/archsimpleblue.tar.gz</payload>
+  <tags>gplv3,linux,unix,theme,plasma##majorversion=5,kde,splashes,plasma,arch,splashscreen</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="488">
+  <name>QuarksSplashDark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1304256</homepage>
+  <licence></licence>
+  <version>0.2</version>
+  <rating>84</rating>
+  <downloads>8944</downloads>
+  <installedfile>/home/nsm/.local/share/plasma/look-and-feel/QuarksSplashDark</installedfile>
+  <id>1304256</id>
+  <releasedate>2020-07-10</releasedate>
+  <summary>Quarks for plasma :P</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/2/c/a/8ed26936ad602888ea2ee61ed644e049803c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/2/c/a/8ed26936ad602888ea2ee61ed644e049803c.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTQ0MjI0NTYiLCJvIjoiMSIsInMiOiJkNjdhNTk2ZWZiNDgwZWU0OGFmZmJjYjdjNmE3ZDEyZGZhMDAzYzY4ZWE1MGQyODQzNWNlYTFiMDQwM2FjYThjYzMxZDY3NjI0YWQyZjE3YzQwYWQ1NGY4MTk3MjViNmIyYTczOGZmOWFlZDRkMmQ0NDBiYmYyNDQ2YWI0YjBiZiIsInQiOjE1OTkzMDE5ODIsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.mOGI1SinNXeJtyQLjYt860UsA_U7P6cV8Q6RCLiGcYU/QuarksSplashDark.tar.gz</payload>
+  <tags>gplv3,original-product,splash,kde,plasma,linux,unix,theme,plasma##majorversion=5,splashscreen</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

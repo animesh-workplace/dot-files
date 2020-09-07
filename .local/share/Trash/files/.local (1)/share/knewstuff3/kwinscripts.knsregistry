@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="210">
+  <name>Latte Window Colors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1290287</homepage>
+  <licence></licence>
+  <version>0.2</version>
+  <rating>74</rating>
+  <downloads>11763</downloads>
+  <installedfile>/tmp/window-colors-0.2.kwinscript</installedfile>
+  <id>1290287</id>
+  <releasedate>2019-03-23</releasedate>
+  <summary>This is a KWin script that sends window colors information to Latte through dbus interface.&lt;br />
+&lt;br />
+&lt;strong>Requires&lt;/strong>&lt;br />
+    Plasma &amp;gt;= 5.15&lt;br />
+    Latte Git version (upcoming v0.9)&lt;br />
+&lt;br />
+&lt;strong>Install&lt;/strong>&lt;br />
+This is a KWin script and as such it can be...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/8/8/b/1229ac1743d789fd6ba04a734dd3e751074c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/8/8/b/1229ac1743d789fd6ba04a734dd3e751074c.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NTMzMzIwMzQiLCJvIjoiMSIsInMiOiJjNGU3OTc3NGUyOTYzY2YxNGZiNmIxMzFhZTA0MGQ4OGUzMjY4YzRlYTk5NDhmNDA0NDI1OTAzNGU5NGM2MTFiZmVjZTQzYjcxNjdiYTc0NzRkZDRmYjYwYTYzMDg5YjZlMTU4MDdjYTU4YzA0Mjg2OTU3ZTI1NzA0YjI5YzQwMSIsInQiOjE1OTkzMzYzMjYsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.PHMchntHWQFdH7PZWfzz4mJzY4RSx3t2kuLw7KGi08w/window-colors-0.2.kwinscript</payload>
+  <tags>latte,colors,kwin,script,gplv2-later,original-product,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="210">
+  <name>Force Blur</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>esjeon</author>
+  <homepage>https://store.kde.org/p/1294604</homepage>
+  <licence></licence>
+  <version>0.5</version>
+  <rating>89</rating>
+  <downloads>36442</downloads>
+  <installedfile>/tmp/forceblur-0.5.kwinscript</installedfile>
+  <id>1294604</id>
+  <releasedate>2020-05-14</releasedate>
+  <summary>Force-enable blur effect for user-specified windows</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/f/b/2/25d2a853b8055b383e5ede66db535b5c9a68.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/f/b/2/25d2a853b8055b383e5ede66db535b5c9a68.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODk1MTA5NTMiLCJvIjoiMSIsInMiOiJhZDY0ZmFjZGY2ZjY0NGNlYzdhOTFiMjBhYzQ5Yzc5NjA0YmFkNmM4YmI1MjBhYzcxZWQ5NGQzNjgwNDkyYTg0YTQ4NjZiODEzMmRmNjU5ZDIzNjg1NzhiZWU4YTIzMDgxODRhZjY5MTkxYmE1MDc2MjFmY2ZkMWQ0MzliMGEyMCIsInQiOjE1OTkyMzE2MTAsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.wVneMt-zAp8nHurzOSvojRQzUA_FQIYsRN0jP8ESSHA/forceblur-0.5.kwinscript</payload>
+  <tags>linux,unix,mit-license,original-product,kwin,blur</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="210">
+  <name>Krohnkite</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>esjeon</author>
+  <homepage>https://store.kde.org/p/1281790</homepage>
+  <licence></licence>
+  <version>0.8</version>
+  <rating>89</rating>
+  <downloads>6345</downloads>
+  <installedfile>/tmp/krohnkite-0.8.kwinscript</installedfile>
+  <id>1281790</id>
+  <releasedate>2020-05-31</releasedate>
+  <summary>A dynamic tiling extension for KWin.&lt;br />
+&lt;br />
+Kröhnkite is mainly inspired by dwm from suckless folks, and aims to be "simple" in both development and usage.&lt;br />
+&lt;br />
+&lt;br />
+Features&lt;br />
+------------&lt;br />
+ * DWM-like window tiling&lt;br />
+    - Dynamically tile windows, rather than...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/5/7/4/f8df7179aef439ef3556b25eb4237663a49b.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/5/7/4/f8df7179aef439ef3556b25eb4237663a49b.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTA5Mzk5NzQiLCJvIjoiMSIsInMiOiIyMjNkYWEzZDJmNDQ4YzI0YzM2OGM3NzVkMGQ0ZGM3Yzg4ZWVkNzA4NDExZTBhMWU5Mzk0ZjQyZWQ5ZjdiYWFhZTg4OTM0ZTZlMmVjNGNlZTg0ZmUyMTUyZTU3NjI4MGU5MjViOTlmNGY3NTI2OTYxYzllNzRmZTczMzgyOTliNyIsInQiOjE1OTkzMzYyODcsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.Vh6huHltd4VgLdpUvg6l0bwd-ySmowEdqOq44S-TLus/krohnkite-0.8.kwinscript</payload>
+  <tags>kwin,tiling,mit-license,original-product,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

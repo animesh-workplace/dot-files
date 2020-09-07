@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="311">
+  <name>WinSur-dark Wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1400964</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>2063</downloads>
+  <installedfile>/home/nsm/.local/share/wallpapers/WinSur-dark/*</installedfile>
+  <installedfile>/home/nsm/.local/share/wallpapers//</installedfile>
+  <id>1400964</id>
+  <releasedate>2020-07-30</releasedate>
+  <summary>Mc-WinSur-dark kde is a light clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>Plasmoids for KDE&lt;/strong>&lt;br />
+------------------------------&lt;br />
+Main launcher: Tiled Menu &lt;br />
+Clock: Better inline clock&lt;br />
+Applets: Present Windows Button &lt;br />
+------------------------------&lt;br />
+&lt;strong>WinSur-dark Golbal Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1373646/" target="_blank" rel="nofollow">https://www.pling.com/p/1373646/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Aurorae Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1373642/" target="_blank" rel="nofollow">https://www.pling.com/p/1373642/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Sddm Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1373643/" target="_blank" rel="nofollow">https://www.pling.com/p/1373643/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Color Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1373641/" target="_blank" rel="nofollow">https://www.pling.com/p/1373641/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Plasma Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1373645/" target="_blank" rel="nofollow">https://www.pling.com/p/1373645/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Kvantum&lt;/strong>:&lt;a href="https://www.pling.com/p/1373644/" target="_blank" rel="nofollow">https://www.pling.com/p/1373644/&lt;/a>&lt;br />
+------------------------------&lt;br />
+&lt;strong>McMuse icon theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1348081/" target="_blank" rel="nofollow">https://www.pling.com/p/1348081/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/7/6/a/4/1b2edc4cc3e3e16e99496d6f4085f0aaa1a05500f102a364ee6138c95055631f09a9.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/7/6/a/4/1b2edc4cc3e3e16e99496d6f4085f0aaa1a05500f102a364ee6138c95055631f09a9.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTYxMjg4ODIiLCJvIjoiMSIsInMiOiIxMzc0MmIwNDQ3YTc3YzU4MmVlYWU0YThkNjcxODgzZWUyNjRhOTlhN2M5MGMwZGQ0MGM2NGI1NjdlODQyYTUzYmZlNjdiYjU0MmFlMmI0MmFmMzUxMmFkNzM3Yzc5OGJmZGQ0MzZmMzM0MzkzYzNhYTc3NmM5Y2E2ODAwMjBiOCIsInQiOjE1OTkzNzI5NzIsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.-1i_vYrsl0EOlEefyQek_9kfamvJ4inZqeBDKhFSF6w/WinSur-dark.zip</payload>
+  <tags>gplv3,original-product,wallpaper,artwork,windows</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="296">
+  <name>Cheerful-Phantasy-Flat</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1390265</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>5460</downloads>
+  <installedfile>/home/nsm/.local/share/wallpapers/Cheerful-Phantasy-Flat.jpg</installedfile>
+  <id>1390265</id>
+  <releasedate>2020-06-04</releasedate>
+  <summary>&lt;strong>Cheerful-Phantasy-Flat Wallpapers for Plasma Theme &lt;span style="color: blue;">Cheerful-Phantasy&lt;/span>, which you can download:  &lt;a href="https://store.kde.org/p/1390305/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Based on Wallpaper "Tela color" by vinceliuice: &lt;a href="https://store.kde.org/p/1307853/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/6/c/a/9588070797b7c21120784e85cab4a8944682.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/6/c/a/9588070797b7c21120784e85cab4a8944682.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTEyODM3OTkiLCJvIjoiMSIsInMiOiJkZjE0OWVjZWI0ZjZjMjdmNDBjODNhMGQ4NGU1MjQ0MzE2NmQ4MTBlNzZiM2RkZWQ5N2FjM2U0YTQwNGVjMTllZGM2ZDMwNjJhOGY4YTNmNzZiNGRkZGE1NWU0NzkyNDY0NjA4N2Q0YTQyMDZjOWRkZmIxYjc5OTU5NDk3ZjEwMSIsInQiOjE1OTkyMzQ4NzEsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.5jzm38pcxh3EM9pwzcdCLPA8DyGjNw6RpoNr3n_UM5I/Cheerful-Phantasy-Flat.jpg</payload>
+  <tags>wallpaper,artwork,abstract,modification-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="305">
+  <name>HDR Sessions 57 Wallpaper By Charlie Henson</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>charlie-henson</author>
+  <homepage>https://store.kde.org/p/1184925</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>60</rating>
+  <downloads>5494</downloads>
+  <installedfile>/home/nsm/.local/share/wallpapers/HDR Sessions 57 Wallpaper By Charlie Henson.jpg</installedfile>
+  <id>1184925</id>
+  <releasedate>2017-07-30</releasedate>
+  <summary>HDR Sessions 57 Wallpaper By Charlie Henson&lt;br />
+&lt;br />
+I won the DeviantArt daily deviation contest with this wallpaper.&lt;br />
+&lt;br />
+1920 X 1080 .JPG&lt;br />
+&lt;br />
+The original is a 4K Version and can be seen at DeviantArt&lt;br />
+http://charlie-henson.deviantart.com/art/HDR-Photo-Sessions-57-611500664?offset=25#comments&lt;br />
+&lt;br />
+Software Used: Aurora HDR, Raw Therapee.&lt;br />
+&lt;br />
+All of you are awesome!</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/f/f/c/dd50a8143be105373fd2448ceab588afd0c6.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/f/f/c/dd50a8143be105373fd2448ceab588afd0c6.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MDA5OTYyOTgiLCJvIjoiMSIsInMiOiJhMWE4ZGQwNzlhNzNhNjg0ZDNlNTdjMmI4Y2YyYmUwNTVkYjcyMzlkMzUzYTFjMDc0NzQ1NzkyYzJjZDVkYmVjYTg5Y2EyMWIxY2NkZDM1YjBhYTRmOTU1NTE2NTkzYWM1YWQzMjlkY2M1YjNlZWYwYzI4ZGY3NTYwODI1MTA1NyIsInQiOjE1OTkyMzQ4NTIsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.tMM5wn43k-rBkVhm3a9W6Sku2ip3KrBmIwco0bWvGrk/HDR Sessions 57 Wallpaper By Charlie Henson.jpg</payload>
+  <tags>wallpaper,artwork,landscape,cc-by,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Cheerful-Phantasy Plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1390264</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>60</rating>
+  <downloads>6228</downloads>
+  <installedfile>/home/nsm/.local/share/wallpapers/Cheerful-Phantasy Plasma.jpg</installedfile>
+  <id>1390264</id>
+  <releasedate>2020-06-04</releasedate>
+  <summary>&lt;strong>Cheerful-Phantasy Plasma Wallpapers for Plasma Theme &lt;span style="color: blue;">Cheerful-Phantasy&lt;/span>, which you can download:  &lt;a href="https://store.kde.org/p/1390305/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Based on Wallpaper "Tela color" by vinceliuice: &lt;a href="https://store.kde.org/p/1307853/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper with Plasma Logo&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/9/6/2/3ae4b5caab669c51d5c2f85b4daa54f64c9c.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/9/6/2/3ae4b5caab669c51d5c2f85b4daa54f64c9c.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTEyODMzMjkiLCJvIjoiMSIsInMiOiIxNWFkNTU2NmVkYzc2MTU3ZGEzNDFmOWFlYzgxMDNlZGM3YTk5ODc0YjlmMDQ0Yzc2NzNjOTc2OTNhMWU3NTkwM2U5YWMxOTViOTMyYzc4YmZlOWJlYTRjNzAzZTU1NjVmYzU5MzkyYWVkZTJkZDUzN2EwZjhkZGJjYmI5ZjNhYyIsInQiOjE1OTkyMzQ4NjcsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.RVrV5j3YRW2-QHWKVlUzIsPqSUpr9KT5tbeHfqeGxcw/Cheerful-Phantasy Plasma.jpg</payload>
+  <tags>modification-product,gplv3,wallpaper,artwork,plasma,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>WhiteSur Wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1398833</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>67</rating>
+  <downloads>68265</downloads>
+  <installedfile>/home/nsm/.local/share/wallpapers/WhiteSur/*</installedfile>
+  <installedfile>/home/nsm/.local/share/wallpapers//</installedfile>
+  <id>1398833</id>
+  <releasedate>2020-07-01</releasedate>
+  <summary>MacOS big sur theme for kde plasma</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/0/c/a/3fdc0e89e55c612da93893fd216253928423.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/0/c/a/3fdc0e89e55c612da93893fd216253928423.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTM1ODg5MzciLCJvIjoiMSIsInMiOiJhNzE3Nzk2OWE0ZjMyZTIxNDE5YmEzNzU5NTVmZDgyMWQzZTc1MjBmYzU2NDg4NGI1YjdjMDVlYTg2NDdmZWUzN2NkMjFjZDVlZTg1Nzg3NmJlNmU2MzYzNzQwZWIxZTg0OTc4ZjVhMzE1YThhM2FhZTM0YTFmZTk2YWE1ZTE5MCIsInQiOjE1OTkyMzE2OTcsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.kf-gaZ-tdZFrfKhaSymg_rrEZkZ8LPJVHx9Wivhtup0/WhiteSur.tar.xz</payload>
+  <tags>wallpaper,artwork,plasma,kde,original-product,cc-by-sa</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>McMojave wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1383421</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>26217</downloads>
+  <installedfile>/home/nsm/.local/share/wallpapers/McMojave/*</installedfile>
+  <installedfile>/home/nsm/.local/share/wallpapers//</installedfile>
+  <id>1383421</id>
+  <releasedate>2020-07-16</releasedate>
+  <summary>McMojave wallpapers</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/7/6/2/a348075d18d5e38b59ea5ccc668ce7aa4236.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/7/6/2/a348075d18d5e38b59ea5ccc668ce7aa4236.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTQ5MTA4MTQiLCJvIjoiMSIsInMiOiI0MWRhYmY0YWUxYTI1MTlkYTU0NDlkNGVjYzUyZDhiY2I3ZWY4ZTViZjI4YTkwYmZmNzI0NmVlZWExNzNkZGZiMTFiMzUzZjk4ZDg3YTEwZmM3MTA0YmY4ZmE5ZDEzNDZkOGE2NDFkZGMzMjFmOGY5OThmZGNiYzY3MGNlOTVmZiIsInQiOjE1OTkzMDY1NzgsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.wnGIpeEADzHgo0NuimW9WsqB1VC-M62AKMf9T62aEm4/01-McMojave.tar.xz</payload>
+  <tags>cc-by-sa,modification-product,wallpaper,artwork,plasma,kde</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="135">
+  <name>Macbuntu-Sierra-Dark-O based Vivacious Colors collection</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>brk95</author>
+  <homepage>https://store.kde.org/p/1337635</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>2704</downloads>
+  <installedfile>/home/nsm/.themes/Macbuntu-Sierra-Dark-O-blue/*</installedfile>
+  <installedfile>/home/nsm/.themes//</installedfile>
+  <id>1337635</id>
+  <releasedate>2019-11-19</releasedate>
+  <summary>gtk3 themes based on Macbuntu-Sierra-Dark-O theme by Christian Medel (Elbullazul) gtk3 assets and gtk2 themes based on ravefinty project's Vivacious Colors GTK themes&lt;br />
+Macbuntu-Sierra-Dark-O-aqua&lt;br />
+Macbuntu-Sierra-Dark-O-blue-spring&lt;br />
+Macbuntu-Sierra-Dark-O-brown&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/9/9/f/88781b42cd7b88e41f2b84c87589394deeee.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/9/9/f/88781b42cd7b88e41f2b84c87589394deeee.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzQxNzk2NjgiLCJvIjoiMSIsInMiOiJlZTU3ZDFkZThmMjM5MDg0NDI1YWIzZTRhZjU3OTY3ZTI0MGMxMTdkMTgyMjVkYTM0ZDA4YzY4YTJmYzlkNmMyN2E4OGQwMDZhNzIxMTc5NTg4MjgzMjdjODJmMGYxNDVmODgzMzRlOTI2ODg3N2VjNzgyMWYzY2MyNjdiYjkzYiIsInQiOjE1OTkzNzMwOTYsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.iu_UV-8huegpuvQoTx3Tjqcn0V42MYYL1W-EzDEcNsE/Macbuntu-Sierra-Dark-O-blue.tar.xz</payload>
+  <tags>gtk3,color,dark-theme,pardus,linux,unix,theme,gnome</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="135">
+  <name>Orchis gtk theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1357889</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>92</rating>
+  <downloads>2462</downloads>
+  <installedfile>/home/nsm/.themes/Orchis-dark/*</installedfile>
+  <installedfile>/home/nsm/.themes//</installedfile>
+  <id>1357889</id>
+  <releasedate>2020-09-03</releasedate>
+  <summary>Orchis is a flat style gtk theme for Gnome/Gtk desktop&lt;br />
+--------------------------&lt;br />
+Based on: &lt;strong>nana-4 -- materia-theme&lt;/strong>&lt;br />
+&lt;a href="https://github.com/nana-4/materia-theme" target="_blank" rel="nofollow">https://github.com/nana-4/materia-theme&lt;/a>&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/5/e/4/e1e4dc0611627e93ae11227f17cc8a875d4f.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/5/e/4/e1e4dc0611627e93ae11227f17cc8a875d4f.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTkxMDk1ODMiLCJvIjoiMSIsInMiOiI3ODY5NTBjOTk1YTY3ODNhYzdkMzVjYzU5MjU2YjkwNjQ5MjBiYjg2ZGNkN2JiODJlMjEyYzEzNGU3Mzc3ZDVkNzM2ZDEwY2E5YTNiYTVhNjEyYTM0OTYzYWQ1NjIwODZlMmQ3MTU4MTQ1YmIzOGUzN2I4NmE5ZDM4YWVlMzgwYyIsInQiOjE1OTkzNzM0ODQsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.ZuRN1_OeSRVFQBHjMQV3r9nSpJmi_DXaPbbbciHSMUI/Orchis-dark.tar.xz</payload>
+  <tags>linux,unix,theme,gnome,gtk3,gplv3,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="135">
+  <name>theme big sur</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/1405530</homepage>
+  <licence></licence>
+  <version>0.0.3</version>
+  <rating>71</rating>
+  <downloads>2540</downloads>
+  <installedfile>/home/nsm/.themes/mkos-BigSur-Dark-gtk/*</installedfile>
+  <installedfile>/home/nsm/.themes//</installedfile>
+  <id>1405530</id>
+  <releasedate>2020-08-24</releasedate>
+  <summary>theme for gnome, Modified from big sur theme by ELBULLAZUL&lt;br />
+the shell theme was modified,&lt;br />
+and the appearance of nautilus, the real merit goes to ELBULLAZUL.&lt;br />
+&lt;br />
+---------------&lt;br />
+&lt;strong>icons in screenshot:&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1400021/"...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/3/7/c/a25693d7071a87335da1f1a661553761d72013da38780d3000bd0b7396a9421871d2.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/3/7/c/a25693d7071a87335da1f1a661553761d72013da38780d3000bd0b7396a9421871d2.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTgyNDQ2MzkiLCJvIjoiMSIsInMiOiJjOGYxOWNmNWNlZjZkNDRiMmMxYzQ1MjI4YjhlMWIwZmRlMmJiNmJmYjFkMTU2YzRhODExMzU1NTQzN2Q4YTQ0YTg3ZGVlZWJhMzVlMWI5ZWQ1ZDJhMWI2MWUyYThmZjUwMWUyNzdkN2MxZDRjMTc1MGM4MThlYTUyODU4MmYzZSIsInQiOjE1OTkyMzI1MTQsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.u4dii0pYagShUJ4HoSBzA8lv8VULD9ruQh-Z6NinmY4/mkos-BigSur-Dark-gtk.tar.xz</payload>
+  <tags>linux,unix,theme,gnome,gtk3,efi,agplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="135">
+  <name>Big Sur</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>elbullazul</author>
+  <homepage>https://store.kde.org/p/1400988</homepage>
+  <licence></licence>
+  <version>6.0</version>
+  <rating>79</rating>
+  <downloads>19677</downloads>
+  <installedfile>/home/nsm/.themes/macOS-Dark-6.0-beta-dark/*</installedfile>
+  <installedfile>/home/nsm/.themes//</installedfile>
+  <id>1400988</id>
+  <releasedate>2020-07-07</releasedate>
+  <summary>GTK theme based on the much more flat style of macOS 11 Big Sur.&lt;br />
+&lt;br />
+Requires GTK 3.20 or higher, Gnome or Cinnamon (Xfce and Mate support will be added a bit later)</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/7/a/6/3/0d33ccc8260b7d55eb3c07688b4503bfa831.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/7/a/6/3/0d33ccc8260b7d55eb3c07688b4503bfa831.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTQxNjUyODUiLCJvIjoiMSIsInMiOiI3YWNmNTFmNTY3YTA4NDk3ZjU4OWU1OWE4OTM4YWQ3MjRkOTcxMTk5ODcyMmU4YTdjNjNkNzQzYjdjYmFkYTI2NmIyYTNkYzUxNmEwNDMwNTRkYmIzMjAyMTdlYWI4ZDIzYWMwZTI0M2E4MzJiZTk3MjgwNzcxYzNkYTBjNTFhYSIsInQiOjE1OTkyMzI1NDIsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.YePOQz2iu9Edq2hXl_Ef8gGdiVuVxDbKEC-3QI_zY64/6.0-beta-dark.zip</payload>
+  <tags>gplv3,linux,unix,theme,gnome,gtk3,original-product,big,sur,macos,apple,ios</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="135">
+  <name>MateriaBreath</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>theZest</author>
+  <homepage>https://store.kde.org/p/1332014</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>69</rating>
+  <downloads>1381</downloads>
+  <installedfile>/home/nsm/.themes/Materia-light-breath-2019/*</installedfile>
+  <installedfile>/home/nsm/.themes/Materia-dark-breath-2019/*</installedfile>
+  <installedfile>/home/nsm/.themes/Materia-breath-2019/*</installedfile>
+  <installedfile>/home/nsm/.themes//</installedfile>
+  <id>1332014</id>
+  <releasedate>2020-08-02</releasedate>
+  <summary>Materia meets Breath: GTK themes generated to match Kvantum ones.&lt;br />
+All credits to Manjaro and Materia themes developers:&lt;br />
+https://gitlab.manjaro.org/artwork/themes/breath&lt;br />
+https://github.com/PapirusDevelopmentTeam/materia-kde&lt;br />
+https://github.com/nana-4/materia-theme&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/9/5/d/aa6892683ae9dc7afa56f1b17cd0975d86ac.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/9/5/d/aa6892683ae9dc7afa56f1b17cd0975d86ac.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODU0MDE3NDUiLCJvIjoiMSIsInMiOiJhZTkzMjI3ZTJlYzc2NDg1ZjQ5NTliMzRjMGQ1NTQ4ZDViMjY3NTI0MmVkNWVhNGY1NWY4NGFhZWI5MzA1NGQwYzExZTAyNDFkYWViYjI1MWM3ZDA0YWEyNDBkMjliY2ViNzI1NjZkMTM4NGY1OTkyMjFiOTYyZjI1ODRhOTEwMSIsInQiOjE1OTkzNzM3NzQsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.xXJ3WgnS61mR1qCl2uMmhikUHlcyjcwxrUXIpacMQqQ/MateriaBreath-2019_GTKthemes.tar.gz</payload>
+  <tags>gnome,gtk3,theme,materia,breath,efi,gplv2-later,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

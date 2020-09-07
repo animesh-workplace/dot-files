@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="101">
+  <name>Cheerful-Phantasy-SDDM</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1390280</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>60</rating>
+  <downloads>5736</downloads>
+  <installedfile>/tmp/Cheerful-Phantasy-SDDM.zip</installedfile>
+  <id>1390280</id>
+  <releasedate>2020-06-04</releasedate>
+  <summary>&lt;strong>SDDM Login Theme, customized for the &lt;span style="color: #3f808a;"> &lt;strong>Cheerful-Phantasy&lt;/strong> &lt;/span>  Plasma Theme, which you can download:  &lt;a href="https://store.kde.org/p/1390305/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Cheerful-Phantasy Plasma&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1390264/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Cheerful-Phantasy-Flat&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1390265/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+------------------&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>HDR Sessions 57 Wallpaper By Charlie Henson&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1184925/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/c/c/8/b00153fe1ab9a231072c40196bd158d7fcd8.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/c/c/8/b00153fe1ab9a231072c40196bd158d7fcd8.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTEyODQyMjIiLCJvIjoiMSIsInMiOiIyOTZhOGQzOTcyYTE0YTgyMDc5Zjk2Mjg0NDFmODI4MWFkYmIxZmRjYzFmM2ExZWY5MGRjMDBhYWM2OWQwODM4YWFhYjQ2NWY4N2Q2ZTczMjQ2YzNmY2Y2NzVhMjZhMDk3NGM3Yjk0YTY3MDZjZTYyOWFjODczNzlhNWRhMDcwNCIsInQiOjE1OTkyMzQ4NzYsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.5kBihDLJqDfK-vI55MQmAb6nfLFTASIO8-XkEQX5GTM/Cheerful-Phantasy-SDDM.zip</payload>
+  <tags>gplv3,linux,unix,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="101">
+  <name>WhiteSur SDDM</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1398839</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>70800</downloads>
+  <installedfile>/tmp/WhiteSur.tar.xz</installedfile>
+  <id>1398839</id>
+  <releasedate>2020-07-01</releasedate>
+  <summary>MacOS big sur theme for kde plasma</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/8/a/7/7d69d4bb42b21bd92148a2bf5e692615a15d.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/8/a/7/7d69d4bb42b21bd92148a2bf5e692615a15d.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTM1OTAyMTkiLCJvIjoiMSIsInMiOiI2MGIwY2VjZTkxZDFmNzhjZTQwNGEzNjk0OTA0YmVmNTQ2MjEyNzRhY2QzOTc4NDAxZTIyMmM2MDc2YzAwZWRkOWJiODI2MjlhYzc5YTQxYTExYTg2NzQ4MzM4NDM1NGFjNjQxMGY5Y2IwYzA1MTA5NTcxZGJjY2U0N2Y5MzRkOCIsInQiOjE1OTkyMzE3MDMsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.9Bnmybv3hMrJZAU6uoOMP1QHVM9XP67NQJ6Ixwkd-bY/WhiteSur.tar.xz</payload>
+  <tags>linux,unix,gplv3,modification-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="101">
+  <name>WinSur-dark Sddm Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1373643</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>2305</downloads>
+  <installedfile>/tmp/WinSur-dark.zip</installedfile>
+  <id>1373643</id>
+  <releasedate>2020-07-30</releasedate>
+  <summary>Mc-WinSur-dark kde is a light clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>Plasmoids for KDE&lt;/strong>&lt;br />
+------------------------------&lt;br />
+Main launcher: Tiled Menu &lt;br />
+Clock: Better inline clock&lt;br />
+Applets: Present Windows Button &lt;br />
+------------------------------&lt;br />
+&lt;strong>WinSur-dark Golbal Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1373646/" target="_blank" rel="nofollow">https://www.pling.com/p/1373646/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Aurorae Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1373642/" target="_blank" rel="nofollow">https://www.pling.com/p/1373642/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Color Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1373641/" target="_blank" rel="nofollow">https://www.pling.com/p/1373641/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Plasma Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1373645/" target="_blank" rel="nofollow">https://www.pling.com/p/1373645/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Wallpaper&lt;/strong>:&lt;a href="https://www.pling.com/p/1400964/" target="_blank" rel="nofollow">https://www.pling.com/p/1400964/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinSur-dark Kvantum&lt;/strong>:&lt;a href="https://www.pling.com/p/1373644/" target="_blank" rel="nofollow">https://www.pling.com/p/1373644/&lt;/a>&lt;br />
+------------------------------&lt;br />
+&lt;strong>McMuse icon theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1348081/" target="_blank" rel="nofollow">https://www.pling.com/p/1348081/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/4/3/d/bbe5e23b039d8a19dce6ce77cb84298226c7db15b8d8272f0ad6b81d299205ee14aa.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/4/3/d/bbe5e23b039d8a19dce6ce77cb84298226c7db15b8d8272f0ad6b81d299205ee14aa.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTYxMjk3OTciLCJvIjoiMSIsInMiOiI4ZDg1ZmQwYzdmY2Q1NzNkYTJmMzVmZDU2OWJjOTkzMTAzMjhmZDk1ODE4MzQ2NDA5YzFjYzQxOGUxMTMxMTlmYTgwZmZlNDRkNzhjZDRhYWM2MjBhOTE1YzVjMjVjNDE2ZWIzNTA5ODFjOWEwMjdiYjZjMjhlYmMwNGVjYzZjNyIsInQiOjE1OTkzNzI5NzYsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.GS-dAd2Vj_EgNHvyMehbY_t6yaAIQus29xlKiF85RBc/WinSur-dark.zip</payload>
+  <tags>gplv3,original-product,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="101">
+  <name>McMojave sddm</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1312086</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>60</rating>
+  <downloads>102080</downloads>
+  <installedfile>/tmp/McMojave.tar.xz</installedfile>
+  <id>1312086</id>
+  <releasedate>2020-07-09</releasedate>
+  <summary>McMojave sddm</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/8/f/f/fac25471c95a227246c98fc98fad33fd2e6e.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/8/f/f/fac25471c95a227246c98fc98fad33fd2e6e.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODkzNzI3ODciLCJvIjoiMSIsInMiOiJkZTZiOTU1ZmMxMmZjOTJjMTQxN2MwOTJjMmNkYjg4OWE3ZTkzMGI1MTliZmE1NWVmZjhiOTBjN2YyNmI2MDc0MzNjNGFlMjI2NzA2YTdkODI0ZDNmMTgzMzkxYWEwMDc2MDAyYWRhMGNhMTRmNTg4ZGIxMGQ3YzljMjk0OWYxMSIsInQiOjE1OTkzMDY1ODMsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.bXHeyfGsZm0vLLTR_-MH2CO-3bg3afwkTqlXK-h8Y6A/McMojave.tar.xz</payload>
+  <tags>linux,unix,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="101">
+  <name>Sugar Candy for SDDM</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>marianarlt</author>
+  <homepage>https://store.kde.org/p/1312658</homepage>
+  <licence></licence>
+  <version>1.6</version>
+  <rating>89</rating>
+  <downloads>63321</downloads>
+  <installedfile>/tmp/sugar-candy.tar.gz</installedfile>
+  <id>1312658</id>
+  <releasedate>2020-02-01</releasedate>
+  <summary>So extremely sweet your pancreas will have difficulties digesting its awesomeness.  &lt;br />
+&lt;br />
+Sweeten the login experience for your users, your family and yourself. Sugar Candy works on almost all major distributions—see below—and focuses on a straight forward user experience and superb...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/f/9/6/089f113ce5ee3c4a56389e40ad7752982f86.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/f/9/6/089f113ce5ee3c4a56389e40ad7752982f86.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODA1ODg4MzQiLCJvIjoiMSIsInMiOiIxNDA0NTViOWI5MWVjNjdkYjdmNjlmZGZmMTI2NGRiNzI0NmU0ZDc5NTA2YmQ1OGFjMWM0ZTJlZTg2YjU4ZTMxNGM4YjE0MjdhNGRjNzdjMTAzMTBlMTJkMDhjMWRhMTAwZDY2OWE4MjgyNjM4ZTVmM2IyNmY1ZjgzYjAxNTkyOCIsInQiOjE1OTkyOTU4NzEsInN0ZnAiOm51bGwsInN0aXAiOiIxNC4xMzkuMjIwLjQ5In0.YrXv72RMmr_KEq5oVwUFfMCJ8Z34pnuZhZJc-uTwzqc/sugar-candy.tar.gz</payload>
+  <tags>gplv3,original-product,sddm,theme,awesome,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

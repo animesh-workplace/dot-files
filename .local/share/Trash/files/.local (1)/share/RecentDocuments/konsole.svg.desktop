@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=image-svg+xml
+Name=konsole.svg
+Type=Link
+URL[$e]=file:$HOME/.local/share/icons/la-capitaine-icon-theme/apps/scalable/konsole.svg
+X-KDE-LastOpenedWith=org.kde.kate

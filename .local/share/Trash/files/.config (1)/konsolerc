@@ -1,0 +1,22 @@
+[DownloadDialog Settings]
+Height 1080=481
+Width 1920=700
+
+[Favorite Profiles]
+Favorites=Breath2.profile
+
+[KonsoleWindow]
+AllowMenuAccelerators=true
+
+[MainWindow]
+Height 1080=1019
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPgAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1920
+
+[TabBar]
+ExpandTabWidth=true
+TabBarPosition=Top
+
+[ThumbnailsSettings]
+ThumbnailSize=0
