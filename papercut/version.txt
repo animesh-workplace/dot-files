@@ -1,0 +1,6 @@
+[version]
+name-with-version=PaperCut NG 12.2 (Build 17368)
+name=PaperCut NG
+version-major=12
+version-minor=2
+version-build=17368
