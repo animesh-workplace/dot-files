@@ -100,6 +100,7 @@ plugins=(
 	redis-cli
 	rsync
 	screen
+	shrink-path
 	sublime
 	sudo
 	systemadmin
@@ -144,3 +145,5 @@ alias ohmyzsh="st ~/.oh-my-zsh"
 alias ls="lsd"
 alias ll="lsd -ltrh"
 alias sudo="sudo " 
+alias pip="pip3"
+alias lf='lf --last-dir-path=$HOME/.lsdir; LASTDIR=`cat $HOME/.lsdir`; cd "$LASTDIR"'
